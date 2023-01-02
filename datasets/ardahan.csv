@@ -1,0 +1,44 @@
+City,District,Quarter,Net m²,Number of Rooms,Building Age,Floor Location,Number of Floors,Heating,Number of Baths,Balcony,Furnished,Price
+Ardahan,Merkez,Karagöl,75,2+1,0,2,5,Kat Kaloriferi,2,Var,Hayır,740000
+Ardahan,Merkez,Karagöl,140,3+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,850000
+Ardahan,Merkez,Kaptanpaşa,105,2+1,4,3,5,Doğalgaz (Kombi),1,Var,Evet,960000
+Ardahan,Merkez,Kaptanpaşa,105,2+1,4,3,5,Doğalgaz (Kombi),1,Var,Evet,960000
+Ardahan,Merkez,İnönü,120,3+1,5-10 arası,2,7,Doğalgaz (Kombi),2,Var,Hayır,720000
+Ardahan,Merkez,Karagöl,3+1,5-10 arası,Bodrum Kat,6,Kat Kaloriferi,1,Yok,Hayır,Kiracılı,135000
+Ardahan,Merkez,İnönü,145,3+1,5-10 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,845000
+Ardahan,Merkez,Karagöl,45,1+1,5-10 arası,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Evet,315000
+Ardahan,Merkez,Karagöl,130,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,1000000
+Ardahan,Merkez,Karagöl,140,3+1,5-10 arası,6,6,Doğalgaz (Kombi),1,Var,Hayır,599000
+Ardahan,Merkez,İnönü,111,3+1,5-10 arası,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,565000
+Ardahan,Merkez,Karagöl,135,3+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,750000
+Ardahan,Merkez,Kaptanpaşa,135,3+1,3,3,4,Doğalgaz (Kombi),1,Var,Belirtilmemiş,925000
+Ardahan,Merkez,Karagöl,100,2+1,0,4,6,Doğalgaz (Kombi),1,Var,Hayır,780000
+Ardahan,Merkez,Karagöl,100,2+1,0,4,6,Doğalgaz (Kombi),1,Var,Hayır,780000
+Ardahan,Merkez,Karagöl,130,3+1,5-10 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,900000
+Ardahan,Merkez,Kaptanpaşa,53,1+1,5-10 arası,Bodrum Kat,7,Kat Kaloriferi,1,Yok,Hayır,175000
+Ardahan,Merkez,Karagöl,250,4+2,4,7,8,Doğalgaz (Kombi),2,Var,Belirtilmemiş,1300000
+Ardahan,Merkez,Karagöl,145,3+1,5-10 arası,3,6,Doğalgaz (Kombi),2,Var,Hayır,875000
+Ardahan,Merkez,Kaptanpaşa,83,2+0,5-10 arası,5,9,Doğalgaz (Kombi),1,Yok,Evet,580000
+Ardahan,Merkez,İnönü,190,4+1,1,Yüksek Giriş,6,Doğalgaz (Kombi),2,Var,Hayır,1250000
+Ardahan,Merkez,Karagöl,140,3+1,16-20 arası,1,3,Doğalgaz (Kombi),1,Var,Hayır,800000
+Ardahan,Merkez,Karagöl,150,3+1,4,2,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,680000
+Ardahan,Merkez,Karagöl,120,3+1,5-10 arası,Bodrum Kat,5,Doğalgaz (Kombi),2,Yok,Hayır,320000
+Ardahan,Merkez,İnönü,162,4+1,1,3,6,Doğalgaz (Kombi),2,Var,Hayır,1450000
+Ardahan,Merkez,İnönü,155,3+1,0,5,5,Doğalgaz (Kombi),2,Var,Belirtilmemiş,950000
+Ardahan,Merkez,İnönü,135,3+1,4,4,6,Doğalgaz (Kombi),1,Var,Hayır,925000
+Ardahan,Merkez,Karagöl,80,2+1,0,5,5,Doğalgaz (Kombi),1,Var,Hayır,850000
+Ardahan,Merkez,Karagöl,180,3+1,4,7,8,Doğalgaz (Kombi),2,Var,Hayır,679000
+Ardahan,Merkez,İnönü,111,3+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,675000
+Ardahan,Merkez,Karagöl,85,2+1,5-10 arası,Bodrum Kat,5,Doğalgaz (Kombi),1,Yok,Hayır,400000
+Ardahan,Merkez,Karagöl,85,2+1,5-10 arası,Bodrum Kat,5,Doğalgaz (Kombi),1,Yok,Hayır,400000
+Ardahan,Merkez,Karagöl,148,3+1,5-10 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,848000
+Ardahan,Merkez,Karagöl,148,3+1,5-10 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,848000
+Ardahan,Merkez,İnönü,160,3+1,4,Giriş Katı,6,Doğalgaz (Kombi),2,Var,Hayır,880000
+Ardahan,Merkez,İnönü,160,3+1,4,Giriş Katı,6,Doğalgaz (Kombi),2,Var,Hayır,880000
+Ardahan,Merkez,Karagöl,130,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,1000000
+Ardahan,Merkez,Karagöl,100,2+1,0,4,6,Doğalgaz (Kombi),1,Var,Hayır,780000
+Ardahan,Merkez,Karagöl,105,2+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,750000
+Ardahan,Merkez,Kaptanpaşa,260,7+1,1,4,5,Doğalgaz (Kombi),2,Var,Evet,1450000
+Ardahan,Posof,Merkez,78,2+1,2,2,4,Kat Kaloriferi,1,Var,Hayır,600000
+Ardahan,Posof,Merkez,80,2+1,2,2,4,Merkezi,1,Var,Hayır,570000
+Ardahan,Posof,Merkez,60,1+1,1,1,4,Merkezi,1,Var,Hayır,470000

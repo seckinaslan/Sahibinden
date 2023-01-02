@@ -1,0 +1,1465 @@
+City,District,Quarter,Net m²,Number of Rooms,Building Age,Floor Location,Number of Floors,Heating,Number of Baths,Balcony,Furnished,Price
+Aydın,Efeler,Kemer,117,3+1,5-10 arası,2,2,Doğalgaz (Kombi),1,Var,Hayır,1575000
+Aydın,Efeler,Orta,40,1+1,5-10 arası,2,4,Merkezi,1,Yok,Evet,655000
+Aydın,Efeler,Orta,60,1+1,0,3,4,Merkezi,1,Var,Evet,920000
+Aydın,Efeler,Ata,215,4+1,4,7,7,Doğalgaz (Kombi),2,Var,Hayır,2550000
+Aydın,Efeler,Ata,110,2+1,0,2,3,Yerden Isıtma,1,Var,Hayır,1350000
+Aydın,Efeler,Ata,190,4+1,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,1590000
+Aydın,Efeler,Cumhuriyet,100,3+1,16-20 arası,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,890000
+Aydın,Efeler,Mimar Sinan,150,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,1760000
+Aydın,Efeler,Köprülü - Veysipaşa,105,3+1,31 ve üzeri,Müstakil,1,Kat Kaloriferi,2,Var,Belirtilmemiş,1680000
+Aydın,Efeler,Ata,85,2+1,3,1,3,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Adnan Menderes,100,2+1,1,2,4,Doğalgaz (Kombi),2,Var,Hayır,2450000
+Aydın,Efeler,Köprülü - Veysipaşa,150,3+1,21-25 arası,4,4,Soba,1,Var,Hayır,1200000
+Aydın,Efeler,Zafer,55,2+0,11-15 arası,3,5,Klima,1,Var,Evet,815000
+Aydın,Efeler,Ata,85,2+1,1,4,4,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Orta,75,2+1,4,1,4,Merkezi,1,Var,Evet,850000
+Aydın,Efeler,Güzelhisar,100,2+1,2,3,5,Doğalgaz (Kombi),1,Var,Hayır,1380000
+Aydın,Efeler,Girne,80,2+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1550000
+Aydın,Efeler,Mesudiye,120,3+1,31 ve üzeri,5,5,Doğalgaz (Kombi),1,Var,Hayır,875000
+Aydın,Efeler,Girne,115,3+1,11-15 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,1320000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,130,3+1,11-15 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,970000
+Aydın,Efeler,Cumhuriyet,105,3+1,26-30 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,890000
+Aydın,Efeler,Efeler,50,2+1,1,2,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Zeybek,150,3+1,4,1,4,Doğalgaz (Kombi),2,Var,Hayır,3000000
+Aydın,Efeler,Yedi Eylül,125,3+1,21-25 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,1220000
+Aydın,Efeler,Güzelhisar,155,3+1,31 ve üzeri,3,5,Klima,1,Var,Hayır,1000000
+Aydın,Efeler,Güzelhisar,50,1+1,0,6,6,Doğalgaz (Kombi),1,Var,Evet,850000
+Aydın,Efeler,Mimar Sinan,140,3+1,2,3,3,Doğalgaz (Kombi),1,Var,Hayır,1550000
+Aydın,Efeler,Cumhuriyet,160,3+1,0,5,5,Doğalgaz (Kombi),2,Var,Hayır,2000000
+Aydın,Efeler,Mimar Sinan,140,3+1,11-15 arası,4,7,Doğalgaz (Kombi),2,Var,Hayır,1645000
+Aydın,Efeler,Zafer,60,2+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Yok,Evet,875000
+Aydın,Efeler,Ata,35,1+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,900000
+Aydın,Efeler,Adnan Menderes,260,5+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,2650000
+Aydın,Efeler,Meşrutiyet,160,3+1,21-25 arası,1,6,Doğalgaz (Kombi),1,Var,Hayır,1650000
+Aydın,Efeler,Mimar Sinan,110,2+1,5-10 arası,Yüksek Giriş,3,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Zafer,55,2+0,11-15 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,860000
+Aydın,Efeler,Zafer,50,1+1,1,2,5,Doğalgaz (Kombi),1,Var,Evet,875000
+Aydın,Efeler,Güzelhisar,120,3+1,31 ve üzeri,3,3,Doğalgaz (Kombi),1,Var,Hayır,850000
+Aydın,Efeler,Mimar Sinan,190,3+1,2,2,2,Doğalgaz (Kombi),2,Var,Hayır,7000000
+Aydın,Efeler,Cumhuriyet,120,3+1,26-30 arası,3,4,Yok,1,Var,Hayır,850000
+Aydın,Efeler,Orta,85,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Evet,995000
+Aydın,Efeler,Meşrutiyet,125,3+1,31 ve üzeri,Zemin Kat,4,Soba,1,Yok,Hayır,1000000
+Aydın,Efeler,Ata,85,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,1230000
+Aydın,Efeler,Güzelhisar,90,2+1,16-20 arası,5,5,Soba,1,Var,Hayır,675000
+Aydın,Efeler,Fatih,120,3+1,5-10 arası,6,6,Doğalgaz (Kombi),2,Var,Hayır,1900000
+Aydın,Efeler,Ata,110,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Güzelhisar,82,2+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1420000
+Aydın,Efeler,Ata,125,2+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Güzelhisar,120,3+1,21-25 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Girne,88,2+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1475000
+Aydın,Efeler,Girne,130,4+1,4,3,3,Doğalgaz (Kombi),2,Var,Hayır,1650000
+Aydın,Efeler,İstiklal,135,3+1,0,2,4,Doğalgaz (Kombi),1,Var,Evet,1650000
+Aydın,Efeler,Zafer,51,1+1,0,3,4,Yerden Isıtma,1,Var,Evet,850000
+Aydın,Efeler,Efeler,55,1+1,3,4,5,Doğalgaz (Kombi),1,Var,Evet,830000
+Aydın,Efeler,Orta,55,1+1,0,3,3,Doğalgaz (Kombi),1,Var,Hayır,855000
+Aydın,Efeler,Orta,42,1+1,1,3,4,Doğalgaz Sobası,1,Yok,Evet,850000
+Aydın,Efeler,Mimar Sinan,175,3+1,5-10 arası,5,8,Merkezi,1,Var,Hayır,2950000
+Aydın,Efeler,Meşrutiyet,165,3+1,5-10 arası,1,5,Doğalgaz (Kombi),2,Var,Hayır,1550000
+Aydın,Efeler,Zafer,40,1+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Efeler,45,1+1,4,4,5,Merkezi (Pay Ölçer),1,Var,Evet,850000
+Aydın,Efeler,Orta,85,2+1,11-15 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,850000
+Aydın,Efeler,Meşrutiyet,130,3+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,1850000
+Aydın,Efeler,Zafer,60,1+1,1,Giriş Katı,3,Yerden Isıtma,1,Yok,Evet,770000
+Aydın,Efeler,Ata,95,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Meşrutiyet,120,3+1,5-10 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,1750000
+Aydın,Efeler,Orta,90,2+1,26-30 arası,4,5,Yok,1,Var,Hayır,740000
+Aydın,Efeler,Ata,120,3+1,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Kurtuluş,110,2+1,21-25 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,1140000
+Aydın,Efeler,Mimar Sinan,250,5+1,5-10 arası,3,3,Doğalgaz (Kombi),4,Var,Hayır,4900000
+Aydın,Efeler,Kemer,160,3+1,4,4,6,Doğalgaz (Kombi),2,Var,Hayır,2700000
+Aydın,Efeler,Efeler,150,3+1,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,2220000
+Aydın,Efeler,Orta,90,2+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,990000
+Aydın,Efeler,Efeler,130,3+1,1,4,4,Doğalgaz (Kombi),1,Var,Hayır,1950000
+Aydın,Efeler,Güzelhisar,95,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Cuma,165,4+1,26-30 arası,1,5,Soba,1,Var,Belirtilmemiş,900000
+Aydın,Efeler,Zafer,60,2+0,5-10 arası,3,4,Klima,1,Var,Evet,775000
+Aydın,Efeler,Fatih,160,4+1,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2075000
+Aydın,Efeler,Ata,120,3+1,16-20 arası,Giriş Katı,3,Doğalgaz (Kombi),1,Var,Belirtilmemiş,750000
+Aydın,Efeler,Kurtuluş,45,1+1,21-25 arası,Müstakil,1,Soba,1,Var,Hayır,460000
+Aydın,Efeler,Mimar Sinan,165,3+1,5-10 arası,8,8,Merkezi,2,Var,Hayır,3000000
+Aydın,Efeler,Ata,120,3+1,21-25 arası,3,3,Doğalgaz (Kombi),1,Var,Hayır,800000
+Aydın,Efeler,Meşrutiyet,50,1+1,2,3,4,Doğalgaz (Kombi),1,Var,Hayır,755000
+Aydın,Efeler,Orta,85,2+1,4,2,5,Yerden Isıtma,1,Var,Hayır,1000000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,3,3,Doğalgaz (Kombi),1,Var,Evet,720000
+Aydın,Efeler,Zeybek,150,3+1,3,2,5,Doğalgaz (Kombi),2,Var,Hayır,3100000
+Aydın,Efeler,Cumhuriyet,145,3+1,0,5,7,Doğalgaz (Kombi),2,Var,Hayır,3375000
+Aydın,Efeler,Mimar Sinan,150,3+1,5-10 arası,4,7,Doğalgaz (Kombi),2,Var,Hayır,1650000
+Aydın,Efeler,Orta,85,2+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,1050000
+Aydın,Efeler,Mimar Sinan,120,3+1,4,1,3,Yerden Isıtma,2,Var,Hayır,2278000
+Aydın,Efeler,Ata,100,2+1,2,3,3,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Fatih,132,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,1320000
+Aydın,Efeler,Güzelhisar,48,1+1,4,3,5,Doğalgaz (Kombi),1,Var,Evet,899000
+Aydın,Efeler,Kurtuluş,80,2+1,26-30 arası,6,6,Doğalgaz (Kombi),1,Var,Hayır,1085000
+Aydın,Efeler,Efeler,220,4+1,16-20 arası,3,6,Doğalgaz (Kombi),2,Var,Hayır,2100000
+Aydın,Efeler,Zafer,56,1+1,0,2,4,Doğalgaz (Kombi),1,Yok,Hayır,475000
+Aydın,Efeler,Kurtuluş,85,2+1,26-30 arası,6,6,Soba,1,Var,Hayır,1080000
+Aydın,Efeler,Meşrutiyet,120,3+1,11-15 arası,2,4,Doğalgaz (Kombi),2,Var,Hayır,1850000
+Aydın,Efeler,Mimar Sinan,130,3+1,21-25 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,1375000
+Aydın,Efeler,Adnan Menderes,130,3+1,21-25 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1650000
+Aydın,Efeler,Girne,90,2+1,4,Zemin Kat,3,Doğalgaz (Kombi),1,Var,Hayır,1305000
+Aydın,Efeler,Adnan Menderes,145,3+1,5-10 arası,1,8,Doğalgaz (Kombi),2,Var,Hayır,2300000
+Aydın,Efeler,Mimar Sinan,150,3+1,16-20 arası,2,7,Merkezi,2,Var,Hayır,2150000
+Aydın,Efeler,Zafer,45,1+1,4,1,5,Merkezi,1,Yok,Evet,750000
+Aydın,Efeler,Ata,85,2+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1580000
+Aydın,Efeler,Mimar Sinan,130,3+1,5-10 arası,1,3,Doğalgaz (Kombi),1,Var,Hayır,2100000
+Aydın,Efeler,Orta,48,1+1,2,4,4,Merkezi,1,Var,Hayır,625000
+Aydın,Efeler,Zafer,70,2+1,4,1,4,Merkezi,1,Var,Hayır,890000
+Aydın,Efeler,Güzelhisar,55,1+1,5-10 arası,1,4,Klima,1,Var,Evet,750000
+Aydın,Efeler,Orta,80,2+1,2,5,5,Yerden Isıtma,1,Var,Evet,825000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,45,1+1,1,2,5,Yerden Isıtma,1,Yok,Hayır,750000
+Aydın,Efeler,Kurtuluş,110,2+1,21-25 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,990000
+Aydın,Efeler,Ata,131,3+1,0,4,5,Yerden Isıtma,2,Var,Hayır,2860000
+Aydın,Efeler,Güzelhisar,80,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Yedi Eylül,210,4+1,11-15 arası,1,7,Merkezi,2,Var,Hayır,1750000
+Aydın,Efeler,Adnan Menderes,40,1+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Evet,850000
+Aydın,Efeler,Fatih,140,3+1,2,2,3,Doğalgaz (Kombi),2,Var,Hayır,2000000
+Aydın,Efeler,Mimar Sinan,140,3+1,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,2550000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,1,6,Soba,1,Var,Hayır,1120000
+Aydın,Efeler,Mimar Sinan,165,4+1,5-10 arası,7,8,Merkezi,2,Var,Hayır,3350000
+Aydın,Efeler,Efeler,140,3+1,1,3,3,Doğalgaz (Kombi),2,Var,Hayır,1830000
+Aydın,Efeler,Cuma,50,1+1,4,2,4,Doğalgaz (Kombi),1,Var,Hayır,715000
+Aydın,Efeler,Ata,100,2+1,5-10 arası,2,3,Doğalgaz (Kombi),1,Var,Hayır,1365000
+Aydın,Efeler,Mimar Sinan,120,3+1,16-20 arası,8,8,Doğalgaz (Kombi),2,Var,Hayır,2050000
+Aydın,Efeler,Kurtuluş,55,2+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,990000
+Aydın,Efeler,Ata,170,3+1,4,3,3,Doğalgaz (Kombi),2,Var,Hayır,1620000
+Aydın,Efeler,Kemer,200,4+1,5-10 arası,4,4,Doğalgaz (Kombi),4,Var,Hayır,3000000
+Aydın,Efeler,Zafer,50,1+1,5-10 arası,4,5,Klima,1,Var,Hayır,650000
+Aydın,Efeler,Adnan Menderes,120,3+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,2050000
+Aydın,Efeler,Ata,115,3+1,4,2,3,Doğalgaz (Kombi),1,Var,Evet,1299000
+Aydın,Efeler,Efeler,115,2+1,0,5,5,Yerden Isıtma,2,Var,Hayır,1500000
+Aydın,Efeler,Güzelhisar,120,3+1,21-25 arası,7,7,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Fatih,220,4+1,11-15 arası,4,4,Merkezi,3,Var,Hayır,2300000
+Aydın,Efeler,Zafer,125,3+1,21-25 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,875000
+Aydın,Efeler,Zafer,50,2+0,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Evet,760000
+Aydın,Efeler,Fatih,225,4+1,0,4,4,Yerden Isıtma,3,Var,Hayır,2500000
+Aydın,Efeler,Girne,50,1+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Evet,850000
+Aydın,Efeler,Fatih,120,3+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1980000
+Aydın,Efeler,Güzelhisar,75,2+1,1,2,5,Doğalgaz (Kombi),1,Var,Hayır,1360000
+Aydın,Efeler,Meşrutiyet,105,3+1,21-25 arası,3,4,Soba,1,Var,Hayır,1050000
+Aydın,Efeler,Güzelhisar,85,2+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Güzelhisar,135,3+1,11-15 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,1400000
+Aydın,Efeler,Mimar Sinan,145,3+1,5-10 arası,1,3,Doğalgaz (Kombi),1,Var,Hayır,2050000
+Aydın,Efeler,Kurtuluş,120,3+1,26-30 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Kurtuluş,125,3+1,26-30 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,980000
+Aydın,Efeler,Kemer,150,4+1,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Güzelhisar,115,3+1,26-30 arası,2,3,Soba,1,Var,Hayır,850000
+Aydın,Efeler,Cumhuriyet,45,1+1,0,1,5,Klima,1,Var,Hayır,929000
+Aydın,Efeler,Meşrutiyet,125,3+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,1850000
+Aydın,Efeler,Kurtuluş,155,3+1,21-25 arası,3,8,Doğalgaz (Kombi),1,Var,Evet,1400000
+Aydın,Efeler,Efeler,105,3+1,21-25 arası,1,3,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Zafer,65,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Kemer,155,3+1,5-10 arası,6,6,Doğalgaz (Kombi),2,Var,Hayır,2470000
+Aydın,Efeler,Ata,105,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1400000
+Aydın,Efeler,Adnan Menderes,240,6+1,4,4,4,Doğalgaz (Kombi),3,Var,Hayır,2600000
+Aydın,Efeler,Girne,70,2+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1475000
+Aydın,Efeler,Köprülü - Veysipaşa,125,3+1,31 ve üzeri,4,4,Doğalgaz (Kombi),1,Var,Hayır,880000
+Aydın,Efeler,Adnan Menderes,130,3+1,5-10 arası,5,8,Doğalgaz (Kombi),2,Var,Hayır,2700000
+Aydın,Efeler,Adnan Menderes,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,2525000
+Aydın,Efeler,Girne,70,2+1,0,4,4,Doğalgaz (Kombi),1,Var,Hayır,1330000
+Aydın,Efeler,Efeler,165,4+1,11-15 arası,7,8,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1700000
+Aydın,Efeler,Ata,135,3+1,0,5,8,Merkezi (Pay Ölçer),2,Var,Hayır,2100000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Merkezi,1,Var,Hayır,575000
+Aydın,Efeler,Adnan Menderes,55,1+1,0,4,4,Doğalgaz (Kombi),1,Var,Hayır,1150000
+Aydın,Efeler,Fatih,80,2+1,3,1,4,Merkezi,1,Var,Hayır,1485000
+Aydın,Efeler,Girne,42,1+1,1,3,3,Doğalgaz (Kombi),1,Var,Evet,920000
+Aydın,Efeler,Efeler,130,3+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,2150000
+Aydın,Efeler,Güzelhisar,120,3+1,16-20 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Orta,65,2+1,5-10 arası,2,4,Merkezi,1,Yok,Evet,745000
+Aydın,Efeler,Kemer,85,2+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Meşrutiyet,120,2+1,16-20 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Ata,130,3+1,2,2,3,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Güzelhisar,135,3+1,21-25 arası,4,4,Klima,1,Var,Hayır,830000
+Aydın,Efeler,Girne,100,2+1,4,2,3,Doğalgaz (Kombi),1,Var,Hayır,1850000
+Aydın,Efeler,Yedi Eylül,140,3+1,21-25 arası,3,7,Yok,1,Var,Hayır,2300000
+Aydın,Efeler,Zafer,55,2+0,5-10 arası,Yüksek Giriş,3,Doğalgaz (Kombi),1,Yok,Evet,1150000
+Aydın,Efeler,Mimar Sinan,155,3+1,11-15 arası,6,10,Doğalgaz (Kombi),1,Var,Hayır,2850000
+Aydın,Efeler,Kemer,100,2+1,21-25 arası,Müstakil,1,Doğalgaz (Kombi),1,Var,Hayır,555000
+Aydın,Efeler,Zeybek,90,2+1,4,1,5,Doğalgaz (Kombi),1,Var,Hayır,1350000
+Aydın,Efeler,Efeler,145,3+1,0,2,5,Merkezi (Pay Ölçer),2,Var,Hayır,3000000
+Aydın,Efeler,Köprülü - Veysipaşa,90,2+0,31 ve üzeri,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Evet,750000
+Aydın,Efeler,Adnan Menderes,40,1+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Evet,850000
+Aydın,Efeler,Efeler,110,3+1,0,4,4,Yerden Isıtma,1,Var,Hayır,1900000
+Aydın,Efeler,Zeybek,135,3+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Mimar Sinan,145,3+1,16-20 arası,4,9,Doğalgaz (Kombi),1,Var,Hayır,1800000
+Aydın,Efeler,Mimar Sinan,130,3+1,5-10 arası,2,3,Doğalgaz (Kombi),1,Var,Hayır,1950000
+Aydın,Efeler,Meşrutiyet,45,1+1,5-10 arası,6,6,Merkezi,1,Var,Hayır,825000
+Aydın,Efeler,Ata,100,2+1,0,1,3,Yerden Isıtma,1,Var,Hayır,1230000
+Aydın,Efeler,Orta,45,1+1,4,2,5,Klima,1,Yok,Evet,675000
+Aydın,Efeler,Cumhuriyet,680,3+1,31 ve üzeri,Müstakil,5,Soba,1,Var,Hayır,5250000
+Aydın,Efeler,Efeler,160,3+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,2750000
+Aydın,Efeler,Zeybek,140,3+1,5-10 arası,2,4,Doğalgaz (Kombi),2,Var,Hayır,1900000
+Aydın,Efeler,Güzelhisar,180,3+1,26-30 arası,3,3,Yok,1,Var,Hayır,1100000
+Aydın,Efeler,Yedi Eylül,150,3+1,21-25 arası,4,7,Doğalgaz (Kombi),1,Var,Hayır,2000000
+Aydın,Efeler,Girne,40,1+1,3,1,3,Doğalgaz (Kombi),1,Yok,Hayır,790000
+Aydın,Efeler,Efeler,165,3+1,3,5,6,Doğalgaz (Kombi),2,Var,Hayır,2250000
+Aydın,Efeler,Zafer,50,2+0,5-10 arası,4,5,Doğalgaz (Kombi),1,Var,Evet,850000
+Aydın,Efeler,Adnan Menderes,135,3+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,1950000
+Aydın,Efeler,Orta,25,Stüdyo (1+0),5-10 arası,3,6,Klima,1,Var,Evet,900000
+Aydın,Efeler,Cumhuriyet,167,3+1,21-25 arası,1,6,Doğalgaz (Kombi),2,Var,Hayır,2550000
+Aydın,Efeler,Meşrutiyet,55,1+1,4,4,4,Doğalgaz (Kombi),1,Yok,Evet,855000
+Aydın,Efeler,Ata,95,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1135000
+Aydın,Efeler,Cuma,40,1+1,3,2,4,Merkezi,1,Var,Evet,715000
+Aydın,Efeler,Ata,140,3+1,21-25 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Kemer,75,2+1,0,Giriş Katı,2,Doğalgaz (Kombi),1,Var,Hayır,1040000
+Aydın,Efeler,Güzelhisar,70,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Zafer,45,1+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,950000
+Aydın,Efeler,Zeybek,270,5+1,5-10 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Mimar Sinan,220,3+1,11-15 arası,4,8,Doğalgaz (Kombi),2,Var,Hayır,3200000
+Aydın,Efeler,Zeybek,300,5+1,0,5,5,Doğalgaz (Kombi),3,Var,Hayır,3200000
+Aydın,Efeler,Kemer,85,2+1,0,Yüksek Giriş,3,Yerden Isıtma,1,Var,Hayır,1000000
+Aydın,Efeler,Fatih,120,3+1,0,3,3,Doğalgaz (Kombi),1,Var,Hayır,1760000
+Aydın,Efeler,Çeştepe,170,3+1,2,2,5,Doğalgaz (Kombi),2,Var,Hayır,2495000
+Aydın,Efeler,Efeler,125,3+1,21-25 arası,2,7,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,165,3+1,0,5,6,Doğalgaz (Kombi),3,Var,Hayır,2950000
+Aydın,Efeler,Yedi Eylül,100,2+1,1,3,5,Doğalgaz (Kombi),1,Var,Hayır,1520000
+Aydın,Efeler,Köprülü - Veysipaşa,165,4+1,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Mimar Sinan,160,4+1,5-10 arası,8,10,Doğalgaz (Kombi),2,Var,Hayır,3100000
+Aydın,Efeler,Adnan Menderes,140,3+1,26-30 arası,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,950000
+Aydın,Efeler,Fatih,150,3+1,0,6,6,Yerden Isıtma,2,Var,Hayır,2750000
+Aydın,Efeler,Orta,70,2+1,3,4,4,Yerden Isıtma,1,Var,Hayır,850000
+Aydın,Efeler,Zafer,60,1+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,870000
+Aydın,Efeler,Zafer,60,1+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,870000
+Aydın,Efeler,Kurtuluş,207,6+1,31 ve üzeri,1,1,Yok,4,Yok,Hayır,2150000
+Aydın,Efeler,Adnan Menderes,145,3+1,11-15 arası,2,5,Yok,1,Var,Hayır,1000000
+Aydın,Efeler,Cuma,38,1+1,4,5,5,Doğalgaz (Kombi),1,Yok,Evet,670000
+Aydın,Efeler,Kurtuluş,60,1+1,0,2,5,Doğalgaz (Kombi),1,Var,Evet,950000
+Aydın,Efeler,Mimar Sinan,160,3+1,11-15 arası,4,8,Doğalgaz (Kombi),2,Var,Hayır,2250000
+Aydın,Efeler,Yedi Eylül,135,3+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1550000
+Aydın,Efeler,Efeler,110,3+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1640000
+Aydın,Efeler,Mimar Sinan,135,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Zafer,40,Stüdyo (1+0),11-15 arası,1,7,Merkezi (Pay Ölçer),1,Yok,Hayır,530000
+Aydın,Efeler,Kurtuluş,120,3+1,21-25 arası,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Zafer,90,2+1,26-30 arası,5,5,Klima,1,Var,Hayır,675000
+Aydın,Efeler,Adnan Menderes,140,3+1,11-15 arası,4,6,Doğalgaz (Kombi),1,Var,Hayır,1850000
+Aydın,Efeler,Girne,260,5+1,5-10 arası,3,3,Doğalgaz (Kombi),3,Var,Hayır,3500000
+Aydın,Efeler,Kurtuluş,145,3+1,31 ve üzeri,3,4,Doğalgaz (Kombi),2,Var,Hayır,1250000
+Aydın,Efeler,Zafer,55,1+1,5-10 arası,2,5,Klima,1,Var,Evet,760000
+Aydın,Efeler,Orta,55,2+0,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Cumhuriyet,40,1+1,4,4,5,Doğalgaz (Kombi),1,Var,Evet,1100000
+Aydın,Efeler,Girne,100,2+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1285000
+Aydın,Efeler,Efeler,120,3+1,5-10 arası,3,4,Merkezi,2,Var,Hayır,2680000
+Aydın,Efeler,Adnan Menderes,130,3+1,0,3,5,Yerden Isıtma,2,Var,Belirtilmemiş,3150000
+Aydın,Efeler,Fatih,220,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,2060000
+Aydın,Efeler,Yedi Eylül,120,3+1,11-15 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,1700000
+Aydın,Efeler,Yedi Eylül,150,3+2,5-10 arası,7,7,Doğalgaz (Kombi),2,Var,Hayır,2300000
+Aydın,Efeler,Güzelhisar,120,3+1,21-25 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,880000
+Aydın,Efeler,Cuma,80,2+1,2,6,6,Yerden Isıtma,1,Var,Evet,1450000
+Aydın,Efeler,Yedi Eylül,145,3+1,11-15 arası,3,8,Merkezi (Pay Ölçer),1,Var,Hayır,1790000
+Aydın,Efeler,Ata,170,3+1,4,3,3,Doğalgaz (Kombi),2,Var,Hayır,1620000
+Aydın,Efeler,Köprülü - Veysipaşa,95,3+1,21-25 arası,Bodrum Kat,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Cuma,55,2+0,4,1,4,Merkezi,1,Yok,Evet,1050000
+Aydın,Efeler,Mimar Sinan,160,4+1,11-15 arası,8,9,Merkezi,2,Var,Hayır,1780000
+Aydın,Efeler,Köprülü - Veysipaşa,95,2+1,26-30 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Mimar Sinan,110,3+1,26-30 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1400000
+Aydın,Efeler,Mimar Sinan,130,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,1350000
+Aydın,Efeler,Girne,90,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,1530000
+Aydın,Efeler,Adnan Menderes,300,5+2,5-10 arası,4,4,Doğalgaz (Kombi),3,Var,Hayır,2800000
+Aydın,Efeler,Orta,85,2+1,3,3,3,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Kurtuluş,92,3+1,26-30 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Adnan Menderes,160,4+1,0,3,8,Doğalgaz (Kombi),2,Var,Hayır,4000000
+Aydın,Efeler,Girne,45,1+1,3,1,3,Doğalgaz (Kombi),1,Var,Evet,950000
+Aydın,Efeler,Ata,165,3+1,4,2,3,Doğalgaz (Kombi),2,Var,Hayır,2150000
+Aydın,Efeler,Orta,45,1+1,4,3,4,Doğalgaz (Kombi),1,Var,Evet,675000
+Aydın,Efeler,Köprülü - Veysipaşa,135,3+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,850000
+Aydın,Efeler,Zeybek,150,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Meşrutiyet,58,1+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,825000
+Aydın,Efeler,Ata,175,3+1,4,3,3,Doğalgaz (Kombi),1,Var,Hayır,2150000
+Aydın,Efeler,Yedi Eylül,140,3+1,5-10 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,2500000
+Aydın,Efeler,Zeybek,127,3+1,0,1,6,Yerden Isıtma,2,Var,Hayır,3200000
+Aydın,Efeler,Tepecik,220,5+2,2,7,7,Yerden Isıtma,5,Var,Hayır,4100000
+Aydın,Efeler,Tepecik,120,3+1,5-10 arası,Yüksek Giriş,3,Kat Kaloriferi,1,Var,Hayır,1200000
+Aydın,Efeler,Girne,60,1+1,4,1,4,Doğalgaz (Kombi),1,Var,Evet,860000
+Aydın,Efeler,Mimar Sinan,180,4+1,5-10 arası,1,14,Yerden Isıtma,2,Var,Belirtilmemiş,3650000
+Aydın,Efeler,Fatih,134,3+1,3,1,3,Doğalgaz (Kombi),2,Var,Hayır,1650000
+Aydın,Efeler,Efeler,50,2+0,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,995000
+Aydın,Efeler,Orta,49,1+1,3,3,4,Doğalgaz (Kombi),1,Yok,Evet,700000
+Aydın,Efeler,Cuma,75,2+1,4,1,5,Yerden Isıtma,1,Var,Evet,1170000
+Aydın,Efeler,Fatih,120,3+1,0,2,3,Yerden Isıtma,1,Var,Hayır,1850000
+Aydın,Efeler,Efeler,200,5+1,4,3,3,Doğalgaz (Kombi),3,Var,Hayır,2500000
+Aydın,Efeler,Cumhuriyet,130,2+1,16-20 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1370000
+Aydın,Efeler,Orta,140,3+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Evet,1625000
+Aydın,Efeler,Zeybek,120,3+1,21-25 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Cumhuriyet,125,3+1,0,5,5,Doğalgaz (Kombi),2,Var,Hayır,2000000
+Aydın,Efeler,Kurtuluş,75,2+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Orta,40,1+1,0,2,5,Doğalgaz (Kombi),1,Yok,Hayır,1100000
+Aydın,Efeler,Efeler,170,5+1,3,5,5,Doğalgaz (Kombi),3,Var,Hayır,3025000
+Aydın,Efeler,Orta,75,2+0,1,4,4,Doğalgaz (Kombi),1,Var,Hayır,825000
+Aydın,Efeler,Efeler,140,3+1,16-20 arası,5,5,Klima,1,Var,Hayır,1800000
+Aydın,Efeler,Cumhuriyet,160,3+1,21-25 arası,12,12,Merkezi,2,Var,Hayır,2070000
+Aydın,Efeler,Mimar Sinan,200,4+1,11-15 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,3500000
+Aydın,Efeler,Mesudiye,160,3+1,11-15 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Orta,49,2+1,2,3,7,Doğalgaz (Kombi),1,Yok,Evet,1250000
+Aydın,Efeler,Orta,65,1+1,5-10 arası,Yüksek Giriş,5,Klima,1,Yok,Evet,750000
+Aydın,Efeler,Yedi Eylül,120,3+1,11-15 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1700000
+Aydın,Efeler,Mesudiye,90,2+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Efeler,50,1+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Kemer,80,2+1,3,1,3,Yerden Isıtma,1,Var,Hayır,1450000
+Aydın,Efeler,Girne,45,1+1,4,1,3,Doğalgaz (Kombi),1,Var,Evet,775000
+Aydın,Efeler,Girne,185,4+1,11-15 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,2250000
+Aydın,Efeler,Mimar Sinan,130,3+1,21-25 arası,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Efeler,240,6+1,4,4,4,Merkezi,3,Var,Hayır,2750000
+Aydın,Efeler,,145,3+1,4,7,8,Merkezi (Pay Ölçer),1,Var,Hayır,1045000
+Aydın,Efeler,Fatih,240,5+1,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,3500000
+Aydın,Efeler,Fatih,240,5+1,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,3500000
+Aydın,Efeler,Ata,55,1+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1100000
+Aydın,Efeler,Köprülü - Veysipaşa,85,2+1,31 ve üzeri,2,6,Yok,1,Var,Hayır,690000
+Aydın,Efeler,Zafer,50,1+1,5-10 arası,4,4,Klima,1,Var,Evet,699000
+Aydın,Efeler,Adnan Menderes,180,4+1,5-10 arası,8,8,Merkezi,2,Var,Hayır,2550000
+Aydın,Efeler,Fatih,145,3+1,16-20 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,1150000
+Aydın,Efeler,Güzelhisar,90,2+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Girne,155,3+1,11-15 arası,8,8,Doğalgaz (Kombi),1,Var,Hayır,2000000
+Aydın,Efeler,Girne,80,2+1,5-10 arası,1,3,Doğalgaz (Kombi),1,Var,Evet,1350000
+Aydın,Efeler,Zafer,60,1+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,900000
+Aydın,Efeler,Güzelhisar,80,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,695000
+Aydın,Efeler,Cuma,65,1+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,425000
+Aydın,Efeler,Orta,60,1+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,440000
+Aydın,Efeler,Zafer,60,1+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,430000
+Aydın,Efeler,Cumhuriyet,80,2+1,5-10 arası,5,5,Klima,1,Yok,Hayır,2000000
+Aydın,Efeler,Zafer,40,1+1,2,Zemin Kat,3,Merkezi,1,Yok,Evet,760000
+Aydın,Efeler,Güzelhisar,85,2+1,0,3,4,Yerden Isıtma,1,Var,Hayır,1295000
+Aydın,Efeler,,180,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,1500000
+Aydın,Efeler,Köprülü - Veysipaşa,140,3+1,16-20 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,800000
+Aydın,Efeler,Güzelhisar,70,2+1,5-10 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,900000
+Aydın,Efeler,Meşrutiyet,120,3+1,0,3,4,Yerden Isıtma,1,Var,Hayır,1900000
+Aydın,Efeler,Zeybek,140,3+1,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,1610000
+Aydın,Efeler,Kurtuluş,110,3+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,1650000
+Aydın,Efeler,Mesudiye,135,3+1,31 ve üzeri,3,3,Yok,1,Var,Hayır,750000
+Aydın,Efeler,Mimar Sinan,175,3+1,11-15 arası,7,8,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Yedi Eylül,140,3+1,31 ve üzeri,5,5,Yok,2,Var,Hayır,750000
+Aydın,Efeler,Adnan Menderes,240,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Adnan Menderes,220,3+1,3,5,5,Yerden Isıtma,2,Var,Hayır,2950000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,120,3+1,21-25 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Orta,72,2+1,4,3,6,Doğalgaz (Kombi),1,Var,Hayır,995000
+Aydın,Efeler,Orta,150,3+1,2,5,5,Doğalgaz (Kombi),2,Var,Hayır,1500000
+Aydın,Efeler,Güzelhisar,130,3+1,21-25 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Zafer,50,2+0,0,1,6,Doğalgaz (Kombi),1,Var,Hayır,1100000
+Aydın,Efeler,Mimar Sinan,100,2+1,0,2,3,Yerden Isıtma,1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,135,3+1,0,4,4,Yerden Isıtma,1,Var,Hayır,1750000
+Aydın,Efeler,Efeler,130,3+1,5-10 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,2000000
+Aydın,Efeler,Mimar Sinan,190,4+1,11-15 arası,9,9,Merkezi,2,Var,Hayır,3000000
+Aydın,Efeler,Kurtuluş,105,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,765000
+Aydın,Efeler,Adnan Menderes,155,3+1,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,2750000
+Aydın,Efeler,Girne,230,4+1,5-10 arası,4,4,Doğalgaz (Kombi),3,Var,Hayır,1750000
+Aydın,Efeler,Mesudiye,75,2+1,0,3,3,Doğalgaz (Kombi),1,Var,Hayır,1435000
+Aydın,Efeler,Mesudiye,95,2+1,21-25 arası,2,3,Doğalgaz (Kombi),1,Var,Hayır,950000
+Aydın,Efeler,Osman Yozgatlı,175,3+1,0,3,6,Yerden Isıtma,2,Var,Hayır,2750000
+Aydın,Efeler,Efeler,215,4.5+1,21-25 arası,8,11,Merkezi,2,Var,Hayır,2650000
+Aydın,Efeler,Cuma,60,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,950000
+Aydın,Efeler,Efeler,220,5+1,2,7,7,Doğalgaz (Kombi),2,Var,Hayır,2520000
+Aydın,Efeler,Efeler,150,3+1,3,2,7,Merkezi (Pay Ölçer),2,Var,Hayır,2750000
+Aydın,Efeler,Girne,200,4+1,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Köprülü - Veysipaşa,135,3+1,26-30 arası,3,3,Yok,1,Var,Hayır,680000
+Aydın,Efeler,Girne,85,2+1,26-30 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,900000
+Aydın,Efeler,Meşrutiyet,110,3+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Adnan Menderes,75,2+1,3,2,4,Doğalgaz (Kombi),1,Var,Hayır,1150000
+Aydın,Efeler,Adnan Menderes,180,3+1,11-15 arası,1,5,Doğalgaz (Kombi),2,Var,Hayır,1900000
+Aydın,Efeler,Orta,280,5+1,11-15 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,3100000
+Aydın,Efeler,Pınardere,140,3+1,3,2,2,Kat Kaloriferi,2,Var,Hayır,3650000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,45,1+1,4,2,5,Doğalgaz (Kombi),1,Yok,Evet,800000
+Aydın,Efeler,Zeybek,130,3+1,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,899000
+Aydın,Efeler,Girne,90,2+1,5-10 arası,1,3,Doğalgaz (Kombi),1,Var,Hayır,1275000
+Aydın,Efeler,Zafer,50,1+1,5-10 arası,3,5,Klima,1,Var,Evet,790000
+Aydın,Efeler,Kemer,147,3+1,5-10 arası,6,6,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Girne,160,3+1,11-15 arası,6,12,Merkezi,2,Var,Hayır,2225000
+Aydın,Efeler,Ata,110,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,1300000
+Aydın,Efeler,Güzelhisar,85,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,1275000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,5,Klima,1,Yok,Hayır,695000
+Aydın,Efeler,Orta,47,1+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,595000
+Aydın,Efeler,Efeler,110,2+1,5-10 arası,2,5,Merkezi,1,Var,Belirtilmemiş,1500000
+Aydın,Efeler,Ata,125,3+1,0,3,5,Yerden Isıtma,2,Var,Hayır,3225000
+Aydın,Efeler,Efeler,130,3+1,21-25 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,990000
+Aydın,Efeler,Kurtuluş,160,3+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Cumhuriyet,150,3+1,11-15 arası,7,7,Merkezi (Pay Ölçer),2,Var,Hayır,2050000
+Aydın,Efeler,Adnan Menderes,155,3+1,5-10 arası,6,8,Merkezi,2,Var,Hayır,2495000
+Aydın,Efeler,Orta,62,2+1,4,6,7,Doğalgaz (Kombi),1,Yok,Evet,1320000
+Aydın,Efeler,Orta,50,1+1,4,4,4,Doğalgaz (Kombi),1,Var,Evet,660000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,90,2+1,16-20 arası,Giriş Altı Kot 1,5,Klima,1,Yok,Hayır,750000
+Aydın,Efeler,Ata,130,3+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,2750000
+Aydın,Efeler,Güzelhisar,85,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,1550000
+Aydın,Efeler,Adnan Menderes,300,6+1,5-10 arası,5,5,Doğalgaz (Kombi),3,Var,Hayır,3200000
+Aydın,Efeler,Zafer,55,2+1,5-10 arası,2,3,Doğalgaz (Kombi),1,Var,Evet,815000
+Aydın,Efeler,Zeybek,150,3+1,1,4,4,Doğalgaz (Kombi),2,Var,Hayır,2250000
+Aydın,Efeler,Zeybek,150,3+1,1,4,4,Doğalgaz (Kombi),2,Var,Hayır,2250000
+Aydın,Efeler,Osman Yozgatlı,95,2+1,3,1,3,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Efeler,225,5+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,3500000
+Aydın,Efeler,Köprülü - Veysipaşa,90,2+1,31 ve üzeri,Giriş Katı,4,Klima,1,Var,Hayır,530000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,50,1+1,4,1,5,Merkezi,1,Yok,Evet,735000
+Aydın,Efeler,Adnan Menderes,50,1+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,950000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,88,2+1,31 ve üzeri,2,5,Doğalgaz (Kombi),1,Var,Hayır,865000
+Aydın,Efeler,Orta,165,3+1,5-10 arası,6,6,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Zafer,42,1+1,4,4,4,Yerden Isıtma,1,Var,Evet,730000
+Aydın,Efeler,Güzelhisar,90,2+1,4,1,5,Doğalgaz (Kombi),1,Var,Evet,1450000
+Aydın,Efeler,Güzelhisar,90,2+1,4,1,5,Doğalgaz (Kombi),1,Var,Evet,1450000
+Aydın,Efeler,Zafer,135,3+1,1,5,6,Doğalgaz (Kombi),1,Var,Hayır,2100000
+Aydın,Efeler,Zafer,45,1+1,5-10 arası,1,4,Merkezi,1,Var,Evet,750000
+Aydın,Efeler,Adnan Menderes,138,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,2150000
+Aydın,Efeler,Zeybek,135,3+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Zafer,77,2+1,5-10 arası,3,5,Kat Kaloriferi,1,Var,Evet,910000
+Aydın,Efeler,Efeler,40,1+1,3,2,5,Yerden Isıtma,1,Var,Evet,825000
+Aydın,Efeler,Cumhuriyet,125,3+1,21-25 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Adnan Menderes,135,3+1,5-10 arası,Yüksek Giriş,3,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Cumhuriyet,40,1+1,0,2,4,Yerden Isıtma,1,Yok,Hayır,995000
+Aydın,Efeler,Cumhuriyet,135,3+1,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,3250000
+Aydın,Efeler,Ata,220,5+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,2350000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Yok,Evet,750000
+Aydın,Efeler,Kemer,180,4+1,2,2,12,Yerden Isıtma,3,Var,Hayır,5150000
+Aydın,Efeler,Güzelhisar,100,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Evet,1800000
+Aydın,Efeler,Cumhuriyet,55,1+1,2,1,5,Doğalgaz (Kombi),1,Var,Evet,1035000
+Aydın,Efeler,Efeler,180,5+1,5-10 arası,4,4,Merkezi,2,Var,Hayır,2100000
+Aydın,Efeler,Meşrutiyet,90,2+1,5-10 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1350000
+Aydın,Efeler,Ata,110,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Evet,790000
+Aydın,Efeler,Mimar Sinan,60,1+1,4,2,3,Doğalgaz (Kombi),1,Var,Evet,975000
+Aydın,Efeler,Orta,40,1+1,4,1,5,Klima,1,Var,Evet,715000
+Aydın,Efeler,Adnan Menderes,130,3+1,11-15 arası,1,4,Merkezi,1,Var,Hayır,1800000
+Aydın,Efeler,Orta,45,1+1,4,4,4,Klima,1,Var,Evet,630000
+Aydın,Efeler,,165,4+1,3,8,8,Yerden Isıtma,2,Var,Evet,4200000
+Aydın,Efeler,Orta,40,1+1,4,4,4,Yok,1,Yok,Evet,640000
+Aydın,Efeler,Kurtuluş,125,3+1,21-25 arası,2,4,Klima,1,Var,Hayır,845000
+Aydın,Efeler,Cumhuriyet,120,3+1,11-15 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1349000
+Aydın,Efeler,Meşrutiyet,120,3+1,26-30 arası,3,3,Yok,1,Var,Hayır,895000
+Aydın,Efeler,Efeler,100,2+1,0,1,3,Yerden Isıtma,2,Var,Hayır,1825000
+Aydın,Efeler,Zafer,160,3+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,2000000
+Aydın,Efeler,Ata,128,3+1,3,2,3,Doğalgaz (Kombi),1,Var,Hayır,1630000
+Aydın,Efeler,Ata,130,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,1850000
+Aydın,Efeler,Girne,40,1+1,0,3,3,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Meşrutiyet,130,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1520000
+Aydın,Efeler,Ata,90,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Fatih,180,5+1,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,1450000
+Aydın,Efeler,Ata,70,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,980000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,1,4,Klima,1,Yok,Evet,585000
+Aydın,Efeler,Kemer,216,4+1,11-15 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,3000000
+Aydın,Efeler,Meşrutiyet,45,1+1,0,Çatı Katı,4,Doğalgaz (Kombi),1,Var,Hayır,849000
+Aydın,Efeler,,105,2+1,2,Yüksek Giriş,4,Kat Kaloriferi,1,Yok,Hayır,750000
+Aydın,Efeler,Ata,130,3+1,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,1980000
+Aydın,Efeler,Güzelhisar,50,1+1,5-10 arası,3,3,Doğalgaz (Kombi),1,Var,Evet,820000
+Aydın,Efeler,Meşrutiyet,130,2+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1680000
+Aydın,Efeler,Meşrutiyet,125,3+1,21-25 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1195000
+Aydın,Efeler,Efeler,150,3+1,11-15 arası,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,1350000
+Aydın,Efeler,Adnan Menderes,220,5+1,0,4,4,Yerden Isıtma,3,Var,Hayır,2750000
+Aydın,Efeler,Kurtuluş,80,2+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,1075000
+Aydın,Efeler,Cumhuriyet,55,2+1,5-10 arası,1,5,Klima,1,Yok,Hayır,1500000
+Aydın,Efeler,Zafer,50,1+1,0,2,3,Doğalgaz (Kombi),1,Yok,Hayır,750000
+Aydın,Efeler,Cuma,50,1+1,4,1,4,Merkezi,1,Var,Evet,725000
+Aydın,Efeler,Adnan Menderes,155,3+1,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,1900000
+Aydın,Efeler,Zafer,50,1+1,3,1,4,Doğalgaz (Kombi),1,Var,Evet,760000
+Aydın,Efeler,Ata,130,3+1,2,1,3,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Cuma,213,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,850000
+Aydın,Efeler,Zafer,145,3+1,11-15 arası,4,6,Doğalgaz (Kombi),1,Var,Hayır,1400000
+Aydın,Efeler,Ata,100,2+1,2,4,4,Yerden Isıtma,1,Var,Evet,1550000
+Aydın,Efeler,Ata,90,2+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Meşrutiyet,110,2+1,26-30 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,900000
+Aydın,Efeler,Cuma,112,1+1,16-20 arası,4,5,Klima,2,Var,Evet,980000
+Aydın,Efeler,Cumhuriyet,125,3+1,21-25 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Cumhuriyet,125,3+1,21-25 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Mimar Sinan,155,3+1,5-10 arası,7,10,Doğalgaz (Kombi),1,Var,Hayır,2200000
+Aydın,Efeler,,120,3+1,21-25 arası,8,8,Doğalgaz (Kombi),1,Var,Hayır,700000
+Aydın,Efeler,Ata,85,2+1,0,4,2,Yerden Isıtma,1,Var,Hayır,1165000
+Aydın,Efeler,Adnan Menderes,230,4+1,5-10 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,2800000
+Aydın,Efeler,Kurtuluş,170,3+1,5-10 arası,1,6,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Orta,45,1+1,0,3,5,Doğalgaz (Kombi),1,Yok,Hayır,650000
+Aydın,Efeler,Girne,50,1+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,850000
+Aydın,Efeler,Meşrutiyet,145,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,1300000
+Aydın,Efeler,Yedi Eylül,50,1+1,0,2,4,Yerden Isıtma,1,Var,Belirtilmemiş,1050000
+Aydın,Efeler,Mimar Sinan,180,4+1,5-10 arası,5,8,Merkezi (Pay Ölçer),2,Var,Hayır,2750000
+Aydın,Efeler,Cumhuriyet,145,3+1,16-20 arası,2,12,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,140,3+1,11-15 arası,1,2,Yok,2,Var,Hayır,3500000
+Aydın,Efeler,Orta,35,1+1,5-10 arası,1,4,Klima,1,Yok,Evet,625000
+Aydın,Efeler,Mesudiye,90,2+1,21-25 arası,5,5,Klima,1,Var,Hayır,580000
+Aydın,Efeler,Cumhuriyet,260,4+1,0,5,5,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,40,1+1,4,2,5,Doğalgaz (Kombi),1,Var,Evet,875000
+Aydın,Efeler,Meşrutiyet,140,3+1,21-25 arası,2,7,Merkezi,1,Var,Hayır,1500000
+Aydın,Efeler,Adnan Menderes,130,3+1,16-20 arası,Yüksek Giriş,4,Yok,1,Var,Hayır,810000
+Aydın,Efeler,Yedi Eylül,138,3+1,11-15 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,2100000
+Aydın,Efeler,Güzelhisar,100,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,1410000
+Aydın,Efeler,Adnan Menderes,170,3+1,0,2,5,Doğalgaz (Kombi),3,Var,Hayır,2600000
+Aydın,Efeler,Cumhuriyet,110,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,1850000
+Aydın,Efeler,Ata,155,4+1,3,2,2,Yerden Isıtma,2,Var,Hayır,1825000
+Aydın,Efeler,Girne,75,2+1,0,2,2,Doğalgaz (Kombi),1,Var,Hayır,1550000
+Aydın,Efeler,Ata,135,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,1650000
+Aydın,Efeler,Orta,55,1+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Var,Evet,735000
+Aydın,Efeler,Yedi Eylül,70,2+0,3,2,3,Doğalgaz (Kombi),1,Var,Evet,875000
+Aydın,Efeler,Ata,140,3+1,4,2,3,Doğalgaz (Kombi),2,Var,Hayır,1350000
+Aydın,Efeler,Güzelhisar,55,1+1,5-10 arası,3,5,Doğalgaz (Kombi),1,Var,Evet,820000
+Aydın,Efeler,Girne,90,2+1,0,2,3,Yerden Isıtma,1,Var,Hayır,1800000
+Aydın,Efeler,Orta,50,1+1,4,3,4,Klima,1,Var,Evet,650000
+Aydın,Efeler,Meşrutiyet,90,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Meşrutiyet,135,3+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2000000
+Aydın,Efeler,Kurtuluş,120,3+1,31 ve üzeri,7,7,Doğalgaz (Kombi),1,Var,Evet,950000
+Aydın,Efeler,Girne,100,2+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1245000
+Aydın,Efeler,Yedi Eylül,120,3+1,11-15 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,1720000
+Aydın,Efeler,Zafer,50,2+0,5-10 arası,4,5,Doğalgaz (Kombi),1,Var,Evet,885000
+Aydın,Efeler,Kurtuluş,90,2+1,31 ve üzeri,6,7,Merkezi,1,Var,Evet,1500000
+Aydın,Efeler,Orta,50,1+1,0,3,4,Doğalgaz (Kombi),1,Yok,Hayır,590000
+Aydın,Efeler,Orta,50,1+1,4,1,4,Doğalgaz (Kombi),1,Yok,Evet,695000
+Aydın,Efeler,Cumhuriyet,120,3+1,16-20 arası,3,3,Klima,1,Var,Hayır,900000
+Aydın,Efeler,Girne,110,3+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1570000
+Aydın,Efeler,Mimar Sinan,145,3+1,16-20 arası,5,12,Doğalgaz (Kombi),2,Var,Hayır,2150000
+Aydın,Efeler,Kemer,145,3+1,11-15 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,1400000
+Aydın,Efeler,Kurtuluş,65,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Zeybek,300,5+1,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,3200000
+Aydın,Efeler,Orta,130,3+1,26-30 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Fatih,165,3+1,5-10 arası,5,7,Doğalgaz (Kombi),2,Var,Hayır,2420000
+Aydın,Efeler,Adnan Menderes,160,3+1,0,4,4,Yerden Isıtma,2,Var,Hayır,2750000
+Aydın,Efeler,Orta,75,2+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Evet,865000
+Aydın,Efeler,Fatih,195,3+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,2230000
+Aydın,Efeler,Tepecik,120,3+1,0,3,4,Merkezi,2,Var,Belirtilmemiş,2750000
+Aydın,Efeler,Fatih,210,4+1,5-10 arası,6,6,Doğalgaz (Kombi),3,Var,Hayır,3250000
+Aydın,Efeler,Efeler,110,3+1,0,4,4,Doğalgaz (Kombi),1,Var,Hayır,1900000
+Aydın,Efeler,Girne,120,3+1,11-15 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1175000
+Aydın,Efeler,Orta,130,3+0,5-10 arası,8,8,Merkezi (Pay Ölçer),2,Var,Hayır,1450000
+Aydın,Efeler,Ata,190,4+1,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,2100000
+Aydın,Efeler,Fatih,120,3+1,1,1,4,Yerden Isıtma,2,Var,Hayır,2350000
+Aydın,Efeler,Orta,50,1+1,3,3,4,Klima,1,Var,Evet,700000
+Aydın,Efeler,Cuma,49,1+1,4,6,6,Doğalgaz (Kombi),1,Var,Hayır,835000
+Aydın,Efeler,Orta,45,1+1,4,1,4,Klima,1,Yok,Evet,630000
+Aydın,Efeler,Ata,130,3+1,5-10 arası,Yüksek Giriş,6,Doğalgaz (Kombi),2,Var,Hayır,1290000
+Aydın,Efeler,Mimar Sinan,60,1+1,4,3,3,Doğalgaz (Kombi),1,Var,Evet,975000
+Aydın,Efeler,Zeybek,140,3+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,5,5,Merkezi,1,Var,Evet,850000
+Aydın,Efeler,Orta,65,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Evet,1150000
+Aydın,Efeler,,140,3+1,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,820000
+Aydın,Efeler,Efeler,95,3+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,1400000
+Aydın,Efeler,Orta,55,1+1,3,2,4,Merkezi,1,Yok,Evet,765000
+Aydın,Efeler,Yedi Eylül,130,3+1,11-15 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1700000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,80,3+1,21-25 arası,3,5,Klima,1,Var,Hayır,790000
+Aydın,Efeler,Zafer,45,1+1,4,1,4,Merkezi,1,Var,Belirtilmemiş,650000
+Aydın,Efeler,Efeler,180,4+1,21-25 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,2150000
+Aydın,Efeler,Efeler,195,5+1,5-10 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,2400000
+Aydın,Efeler,Ata,90,2+1,0,2,3,Yerden Isıtma,1,Var,Hayır,1300000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,45,1+1,4,6,6,Doğalgaz (Kombi),1,Yok,Hayır,900000
+Aydın,Efeler,Adnan Menderes,155,3+1,0,3,8,Doğalgaz (Kombi),2,Var,Hayır,3800000
+Aydın,Efeler,Cumhuriyet,110,3+1,26-30 arası,1,4,Klima,1,Var,Hayır,780000
+Aydın,Efeler,Mesudiye,95,2+1,26-30 arası,1,4,Soba,1,Var,Hayır,750000
+Aydın,Efeler,Efeler,120,3+1,26-30 arası,2,5,Soba,1,Var,Hayır,685000
+Aydın,Efeler,Girne,115,3+1,0,3,3,Yerden Isıtma,2,Var,Hayır,2100000
+Aydın,Efeler,Güzelhisar,147,3+1,26-30 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,1750000
+Aydın,Efeler,Kemer,80,2+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Zeybek,135,3+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,1610000
+Aydın,Efeler,Tepecik,120,3+1,0,1,3,Merkezi,2,Var,Hayır,2550000
+Aydın,Efeler,Meşrutiyet,125,4+1,26-30 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,885000
+Aydın,Efeler,Mesudiye,75,2+1,1,3,3,Doğalgaz (Kombi),1,Var,Hayır,1400000
+Aydın,Efeler,Cumhuriyet,200,4+1,4,4,5,Merkezi (Pay Ölçer),3,Var,Hayır,2650000
+Aydın,Efeler,Köprülü - Veysipaşa,105,3+1,31 ve üzeri,Müstakil,3,Yok,3,Var,Hayır,1050000
+Aydın,Efeler,Köprülü - Veysipaşa,105,3+1,31 ve üzeri,Müstakil,3,Yok,3,Var,Hayır,1050000
+Aydın,Efeler,Zafer,130,3+1,16-20 arası,6,6,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Zafer,45,1+1,0,2,4,Yerden Isıtma,1,Var,Hayır,1430000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,110,3+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,820000
+Aydın,Efeler,Adnan Menderes,140,3+1,2,3,7,Doğalgaz (Kombi),2,Var,Hayır,2925000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,Giriş Altı Kot 3,5,Klima,1,Var,Hayır,750000
+Aydın,Efeler,Kurtuluş,170,3+1,5-10 arası,2,4,Doğalgaz (Kombi),2,Var,Hayır,1700000
+Aydın,Efeler,Ata,100,2+1,5-10 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1395000
+Aydın,Efeler,Kurtuluş,30,Stüdyo (1+0),5-10 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,664500
+Aydın,Efeler,Mimar Sinan,250,5+1,16-20 arası,7,7,Merkezi,3,Var,Hayır,4500000
+Aydın,Efeler,Kurtuluş,100,3+1,0,4,4,Doğalgaz (Kombi),1,Var,Hayır,1650000
+Aydın,Efeler,Cumhuriyet,140,4+1,11-15 arası,6,6,Doğalgaz (Kombi),2,Var,Hayır,2275000
+Aydın,Efeler,Girne,240,6+1,5-10 arası,4,4,Doğalgaz (Kombi),3,Var,Hayır,2380000
+Aydın,Efeler,Adnan Menderes,120,3+1,21-25 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,1100000
+Aydın,Efeler,Kemer,175,3+1,5-10 arası,1,6,Doğalgaz (Kombi),2,Var,Hayır,2375000
+Aydın,Efeler,Mimar Sinan,150,3+1,5-10 arası,12,12,Merkezi (Pay Ölçer),2,Var,Hayır,3200000
+Aydın,Efeler,Ata,115,2+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1700000
+Aydın,Efeler,Zafer,120,3+1,21-25 arası,Giriş Altı Kot 2,5,Soba,1,Var,Evet,875000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Yok,1,Var,Hayır,620000
+Aydın,Efeler,Cumhuriyet,50,1+1,4,4,5,Doğalgaz (Kombi),1,Var,Evet,1100000
+Aydın,Efeler,Orta,100,3+1,4,6,6,Merkezi (Pay Ölçer),2,Var,Hayır,1550000
+Aydın,Efeler,Cumhuriyet,140,3+1,0,1,5,Yerden Isıtma,2,Var,Hayır,2250000
+Aydın,Efeler,Girne,120,3+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1550000
+Aydın,Efeler,Girne,100,2+1,26-30 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Orta,52,1+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Evet,660000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,88,2+1,31 ve üzeri,2,5,Doğalgaz (Kombi),1,Var,Hayır,865000
+Aydın,Efeler,Zafer,40,1+1,5-10 arası,1,4,Klima,1,Var,Evet,585000
+Aydın,Efeler,Efeler,120,3+1,31 ve üzeri,Yüksek Giriş,3,Yok,1,Var,Hayır,640000
+Aydın,Efeler,Ata,125,3+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Yedi Eylül,152,3+1,26-30 arası,7,7,Doğalgaz (Kombi),1,Var,Hayır,1650000
+Aydın,Efeler,Zafer,45,1+1,0,1,4,Doğalgaz (Kombi),4,Var,Hayır,770000
+Aydın,Efeler,Zafer,55,1+1,1,1,1,Yerden Isıtma,1,Var,Evet,890000
+Aydın,Efeler,Ata,130,3+1,0,3,4,Yerden Isıtma,3,Var,Hayır,1350000
+Aydın,Efeler,Efeler,115,3+1,16-20 arası,3,4,Doğalgaz (Kombi),2,Var,Hayır,1390000
+Aydın,Efeler,Meşrutiyet,80,2+1,21-25 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,785000
+Aydın,Efeler,Cuma,90,2+1,21-25 arası,3,4,Yok,1,Var,Hayır,720000
+Aydın,Efeler,Ata,128,3+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Mesudiye,165,3+1,26-30 arası,3,4,Soba,1,Var,Hayır,960000
+Aydın,Efeler,Efeler,140,3+1,0,3,4,Yerden Isıtma,2,Var,Hayır,2500000
+Aydın,Efeler,Cumhuriyet,45,1+1,0,4,5,Doğalgaz (Kombi),1,Yok,Hayır,1700000
+Aydın,Efeler,Zafer,40,1+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Yok,Evet,640000
+Aydın,Efeler,Orta,50,1+1,0,3,4,Doğalgaz (Kombi),1,Var,Evet,950000
+Aydın,Efeler,Orta,65,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,830000
+Aydın,Efeler,Cumhuriyet,90,3+1,21-25 arası,Zemin Kat,5,Doğalgaz (Kombi),1,Yok,Hayır,890000
+Aydın,Efeler,Girne,135,3+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,2225000
+Aydın,Efeler,Girne,100,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1550000
+Aydın,Efeler,Fatih,140,3+1,5-10 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1999000
+Aydın,Efeler,Ata,85,2+1,0,1,3,Yerden Isıtma,1,Var,Hayır,1300000
+Aydın,Efeler,Güzelhisar,100,2+1,4,4,5,Doğalgaz (Kombi),1,Var,Hayır,1270000
+Aydın,Efeler,Meşrutiyet,110,3+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,1980000
+Aydın,Efeler,Adnan Menderes,230,4+1,5-10 arası,8,10,Merkezi,2,Var,Hayır,4000000
+Aydın,Efeler,Güzelhisar,120,3+1,21-25 arası,7,7,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Cuma,60,1+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,850000
+Aydın,Efeler,Güzelhisar,100,2+1,16-20 arası,2,7,Doğalgaz (Kombi),2,Var,Hayır,1000000
+Aydın,Efeler,Kurtuluş,156,3+1,26-30 arası,3,4,Doğalgaz (Kombi),2,Var,Hayır,1250000
+Aydın,Efeler,Orta,75,2+1,3,4,4,Doğalgaz (Kombi),1,Var,Hayır,900000
+Aydın,Efeler,Meşrutiyet,40,1+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Var,Evet,750000
+Aydın,Efeler,Meşrutiyet,115,3+1,11-15 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,1850000
+Aydın,Efeler,Adnan Menderes,95,2+1,0,Bahçe Katı,8,Merkezi,2,Var,Hayır,2700000
+Aydın,Efeler,Efeler,150,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,2650000
+Aydın,Efeler,Girne,135,3+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,2600000
+Aydın,Efeler,Adnan Menderes,130,3+1,26-30 arası,Yüksek Giriş,3,Doğalgaz (Kombi),1,Var,Hayır,840000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,135,3+1,21-25 arası,5,5,Klima,1,Var,Hayır,775000
+Aydın,Efeler,Cumhuriyet,210,4+1,11-15 arası,1,6,Doğalgaz (Kombi),2,Var,Hayır,2380000
+Aydın,Efeler,Efeler,120,3+1,11-15 arası,1,5,Doğalgaz (Kombi),2,Var,Hayır,1700000
+Aydın,Efeler,,145,3+1,3,3,8,Yerden Isıtma,2,Var,Hayır,2650000
+Aydın,Efeler,Mimar Sinan,180,3+1,16-20 arası,5,7,Doğalgaz (Kombi),1,Var,Hayır,2100000
+Aydın,Efeler,Ata,120,2+1,1,1,4,Kat Kaloriferi,1,Var,Hayır,1550000
+Aydın,Efeler,Zafer,40,1+1,5-10 arası,1,4,Klima,1,Var,Evet,635000
+Aydın,Efeler,Zafer,45,1+1,0,4,4,Doğalgaz (Kombi),1,Var,Hayır,680000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,2,4,Yok,1,Var,Hayır,625000
+Aydın,Efeler,Mimar Sinan,98,2+1,3,2,2,Doğalgaz (Kombi),1,Var,Hayır,1350000
+Aydın,Efeler,Mimar Sinan,150,3+1,16-20 arası,4,8,Merkezi,2,Var,Hayır,1750000
+Aydın,Efeler,Ata,85,2+1,0,3,4,Yerden Isıtma,1,Var,Hayır,1100000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Meşrutiyet,70,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,1100000
+Aydın,Efeler,Mesudiye,80,2+1,16-20 arası,3,4,Klima,1,Var,Hayır,715000
+Aydın,Efeler,Fatih,80,2+1,3,1,4,Merkezi,1,Var,Hayır,1600000
+Aydın,Efeler,Orta,60,1+1,26-30 arası,1,5,Yok,1,Var,Hayır,500000
+Aydın,Efeler,Cumhuriyet,40,1+1,5-10 arası,5,5,Merkezi,1,Yok,Evet,980000
+Aydın,Efeler,Orta,70,2+1,4,3,4,Klima,1,Var,Hayır,850000
+Aydın,Efeler,Orta,130,3+1,26-30 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Mimar Sinan,150,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2000000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,110,3+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,1750000
+Aydın,Efeler,Ata,145,4+1,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,1675000
+Aydın,Efeler,Cumhuriyet,165,3+1,21-25 arası,1,12,Merkezi (Pay Ölçer),2,Var,Hayır,2000000
+Aydın,Efeler,Girne,145,3+1,11-15 arası,6,7,Merkezi,1,Var,Hayır,2650000
+Aydın,Efeler,Tepecik,110,3+1,0,2,3,Merkezi,1,Var,Hayır,2550000
+Aydın,Efeler,Tepecik,110,3+1,0,2,3,Merkezi,1,Var,Hayır,2550000
+Aydın,Efeler,Fatih,110,3+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1700000
+Aydın,Efeler,Zeybek,180,4.5+1,0,1,8,Yerden Isıtma,2,Var,Hayır,4650000
+Aydın,Efeler,Cumhuriyet,90,3+1,21-25 arası,Zemin Kat,5,Doğalgaz (Kombi),1,Var,Hayır,890000
+Aydın,Efeler,Cumhuriyet,60,2+1,5-10 arası,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,850000
+Aydın,Efeler,Cumhuriyet,120,2.5+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1350000
+Aydın,Efeler,Mimar Sinan,220,4+1,11-15 arası,1,7,Doğalgaz (Kombi),2,Var,Belirtilmemiş,2250000
+Aydın,Efeler,Meşrutiyet,105,3+1,0,4,4,Doğalgaz (Kombi),1,Var,Hayır,1750000
+Aydın,Efeler,Cumhuriyet,100,2+1,0,1,5,Doğalgaz (Kombi),2,Yok,Hayır,1800000
+Aydın,Efeler,Ata,35,1+1,0,Zemin Kat,3,Doğalgaz (Kombi),1,Yok,Hayır,900000
+Aydın,Efeler,Orta,80,2+1,4,3,5,Klima,1,Var,Evet,880000
+Aydın,Efeler,Kemer,75,2+1,1,2,3,Doğalgaz (Kombi),1,Var,Evet,1250000
+Aydın,Efeler,Tepecik,130,3+1,0,1,5,Yerden Isıtma,2,Var,Hayır,2550000
+Aydın,Efeler,Kurtuluş,130,3+1,26-30 arası,6,7,Doğalgaz (Kombi),1,Var,Hayır,1575000
+Aydın,Efeler,Ata,225,5+1,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,2200000
+Aydın,Efeler,Mimar Sinan,145,3+1,5-10 arası,1,3,Doğalgaz (Kombi),2,Var,Hayır,2370000
+Aydın,Efeler,Mimar Sinan,120,3+1,2,1,4,Doğalgaz (Kombi),2,Var,Hayır,2250000
+Aydın,Efeler,Mimar Sinan,150,3+1,11-15 arası,1,7,Doğalgaz (Kombi),2,Var,Hayır,2300000
+Aydın,Efeler,Orta,95,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,900000
+Aydın,Efeler,Fatih,150,3+1,11-15 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,1650000
+Aydın,Efeler,Orta,55,1+1,1,2,3,Doğalgaz (Kombi),1,Yok,Hayır,680000
+Aydın,Efeler,Cumhuriyet,135,3+1,0,5,5,Doğalgaz (Kombi),1,Var,Hayır,2500000
+Aydın,Efeler,Zafer,30,Stüdyo (1+0),3,Yüksek Giriş,3,Yok,1,Yok,Hayır,485000
+Aydın,Efeler,Zeybek,110,3+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,1480000
+Aydın,Efeler,Mimar Sinan,80,2+1,3,1,3,Doğalgaz (Kombi),1,Var,Hayır,1400000
+Aydın,Efeler,Efeler,120,3+1,21-25 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,1150000
+Aydın,Efeler,Zafer,45,1+1,0,2,4,Doğalgaz (Kombi),1,Yok,Hayır,700000
+Aydın,Efeler,Kurtuluş,240,5+1,5-10 arası,5,5,Doğalgaz (Kombi),3,Var,Hayır,2750000
+Aydın,Efeler,Girne,155,3+1,16-20 arası,3,7,Merkezi,2,Var,Hayır,1850000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,130,3+1,26-30 arası,Yüksek Giriş,4,Yok,1,Yok,Hayır,765000
+Aydın,Efeler,Orta,75,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Evet,850000
+Aydın,Efeler,,100,2+1,4,Giriş Altı Kot 3,5,Soba,1,Var,Evet,555000
+Aydın,Efeler,Orta,45,1+1,1,5,5,Yok,1,Yok,Evet,535000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,135,3+1,31 ve üzeri,5,7,Yok,1,Var,Hayır,915000
+Aydın,Efeler,Zafer,50,1+1,4,4,4,Doğalgaz (Kombi),1,Var,Evet,760000
+Aydın,Efeler,Orta,40,1+1,0,3,4,Doğalgaz (Kombi),1,Yok,Hayır,600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,150,3+1,31 ve üzeri,4,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Cuma,55,1+1,5-10 arası,5,5,Klima,1,Var,Evet,875000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,Yüksek Giriş,6,Doğalgaz (Kombi),1,Var,Hayır,750000
+Aydın,Efeler,Orta,90,2+1,21-25 arası,5,5,Yok,1,Var,Hayır,830000
+Aydın,Efeler,Mimar Sinan,130,3+1,0,6,6,Doğalgaz (Kombi),1,Var,Hayır,2625000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,85,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Cumhuriyet,130,3+1,21-25 arası,3,5,Soba,1,Var,Hayır,950000
+Aydın,Efeler,Köprülü - Veysipaşa,160,3+1,31 ve üzeri,3,3,Soba,1,Var,Hayır,1200000
+Aydın,Efeler,Güzelhisar,150,3+1,16-20 arası,3,5,Merkezi,1,Var,Hayır,1375000
+Aydın,Efeler,Ata,178,3+1,4,2,2,Doğalgaz (Kombi),1,Var,Evet,1895000
+Aydın,Efeler,Mimar Sinan,130,3+1,16-20 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,1650000
+Aydın,Efeler,Girne,240,5+1,4,3,3,Doğalgaz (Kombi),3,Var,Hayır,3250000
+Aydın,Efeler,Kemer,150,3+1,4,6,6,Doğalgaz (Kombi),2,Var,Hayır,2750000
+Aydın,Efeler,Zeybek,370,5+1,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,3200000
+Aydın,Efeler,Mimar Sinan,300,5+1,11-15 arası,3,3,Doğalgaz (Kombi),4,Var,Hayır,3600000
+Aydın,Efeler,Kurtuluş,110,3+1,31 ve üzeri,3,4,Klima,1,Var,Hayır,900000
+Aydın,Efeler,Fatih,200,5+1,5-10 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,2300000
+Aydın,Efeler,Efeler,155,4+1,5-10 arası,1,3,Doğalgaz (Kombi),2,Var,Belirtilmemiş,2850000
+Aydın,Efeler,Adnan Menderes,130,3+1,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,2250000
+Aydın,Efeler,Ata,220,5+1,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,2150000
+Aydın,Efeler,Kurtuluş,150,3+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,1850000
+Aydın,Efeler,Ata,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Girne,135,3+1,2,2,4,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Ata,100,2+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1540000
+Aydın,Efeler,Orta,70,1+1,11-15 arası,4,4,Doğalgaz (Kombi),2,Var,Evet,850000
+Aydın,Efeler,Mimar Sinan,160,3+1,5-10 arası,3,8,Merkezi,2,Var,Hayır,4500000
+Aydın,Efeler,Mesudiye,60,1+1,4,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,40,1+1,4,2,2,Klima,1,Yok,Hayır,675000
+Aydın,Efeler,Efeler,250,5+1,5-10 arası,5,5,Doğalgaz (Kombi),3,Var,Hayır,3250000
+Aydın,Efeler,Fatih,160,3+1,4,3,4,Doğalgaz (Kombi),2,Var,Hayır,2150000
+Aydın,Efeler,Zafer,45,1+1,0,2,6,Doğalgaz (Kombi),1,Yok,Hayır,1100000
+Aydın,Efeler,Zafer,45,1+1,0,2,6,Doğalgaz (Kombi),1,Yok,Hayır,1100000
+Aydın,Efeler,Mesudiye,80,2+1,2,2,3,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,65,2+0,3,1,2,Doğalgaz (Kombi),1,Yok,Evet,780000
+Aydın,Efeler,Mesudiye,90,2+1,5-10 arası,1,2,Merkezi,1,Var,Hayır,990000
+Aydın,Efeler,Meşrutiyet,120,3+1,16-20 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1620000
+Aydın,Efeler,Yedi Eylül,120,3+1,16-20 arası,6,6,Klima,1,Var,Hayır,2600000
+Aydın,Efeler,Adnan Menderes,135,3+1,16-20 arası,Zemin Kat,3,Soba,1,Var,Hayır,1100000
+Aydın,Efeler,Efeler,65,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,1150000
+Aydın,Efeler,Cumhuriyet,127,3+1,16-20 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Ata,120,3+1,0,3,5,Yerden Isıtma,1,Var,Hayır,1450000
+Aydın,Efeler,Mimar Sinan,200,5+1,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,3600000
+Aydın,Efeler,Zafer,160,2+1,21-25 arası,5,5,Yok,1,Var,Hayır,660000
+Aydın,Efeler,Orta,50,1+1,3,2,4,Kat Kaloriferi,1,Var,Evet,648000
+Aydın,Efeler,Mimar Sinan,190,3+1,4,3,3,Doğalgaz (Kombi),2,Var,Hayır,2220000
+Aydın,Efeler,Cumhuriyet,180,4+1,16-20 arası,4,7,Merkezi,2,Var,Hayır,3200000
+Aydın,Efeler,Ata,97,2+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Ata,140,3+1,21-25 arası,2,4,Doğalgaz (Kombi),1,Var,Evet,965000
+Aydın,Efeler,Ata,90,2+1,0,2,4,Yerden Isıtma,1,Var,Hayır,1200000
+Aydın,Efeler,Zafer,50,2+0,5-10 arası,4,4,Klima,1,Var,Evet,700000
+Aydın,Efeler,Orta,45,1+1,0,2,4,Doğalgaz (Kombi),1,Var,Evet,875000
+Aydın,Efeler,Köprülü - Veysipaşa,140,2+1,31 ve üzeri,1,3,Soba,1,Var,Hayır,850000
+Aydın,Efeler,Orta,40,1+1,0,3,5,Doğalgaz (Kombi),1,Yok,Hayır,582500
+Aydın,Efeler,Güzelhisar,90,2+1,26-30 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Efeler,155,4+1,0,5,5,Doğalgaz (Kombi),2,Var,Hayır,2450000
+Aydın,Efeler,Mimar Sinan,148,3+1,11-15 arası,3,8,Doğalgaz (Kombi),1,Var,Hayır,2600000
+Aydın,Efeler,Ata,155,3+1,3,3,6,Doğalgaz (Kombi),2,Var,Hayır,3150000
+Aydın,Efeler,Girne,230,4+1,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Mimar Sinan,120,3+1,16-20 arası,3,4,Klima,1,Var,Hayır,1150000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,75,2+1,4,2,3,Doğalgaz (Kombi),1,Var,Hayır,1040000
+Aydın,Efeler,Yedi Eylül,100,2+1,0,6,7,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Mimar Sinan,165,3+1,5-10 arası,8,8,Merkezi,2,Var,Hayır,2990000
+Aydın,Efeler,Meşrutiyet,120,3+1,21-25 arası,4,4,Yok,1,Var,Hayır,1150000
+Aydın,Efeler,Köprülü - Veysipaşa,98,2+1,26-30 arası,2,3,Soba,1,Var,Hayır,620000
+Aydın,Efeler,,140,3+1,2,4,8,Merkezi (Pay Ölçer),2,Var,Hayır,3650000
+Aydın,Efeler,Yedi Eylül,120,3+1,16-20 arası,5,6,Kat Kaloriferi,1,Var,Hayır,1300000
+Aydın,Efeler,Meşrutiyet,145,3+1,16-20 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,785000
+Aydın,Efeler,Orta,40,1+1,3,1,4,Yok,1,Var,Hayır,600000
+Aydın,Efeler,Efeler,45,1+1,3,2,4,Doğalgaz (Kombi),1,Var,Evet,775000
+Aydın,Efeler,Zeybek,130,3+1,5-10 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1800000
+Aydın,Efeler,Orta,40,2+0,2,4,4,Doğalgaz (Kombi),1,Var,Hayır,750000
+Aydın,Efeler,Zeybek,330,5+1,1,4,4,Doğalgaz (Kombi),3,Var,Hayır,3250000
+Aydın,Efeler,Fatih,198,4+1,5-10 arası,4,4,Merkezi,3,Var,Hayır,2875000
+Aydın,Efeler,Zafer,85,2+1,4,Yüksek Giriş,3,Yerden Isıtma,1,Yok,Evet,765000
+Aydın,Efeler,Adnan Menderes,150,3+1,5-10 arası,1,8,Merkezi,2,Var,Hayır,2250000
+Aydın,Efeler,Mimar Sinan,150,3+1,21-25 arası,7,8,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,,190,4+1,4,3,3,Merkezi,2,Var,Hayır,1270000
+Aydın,Efeler,Fatih,135,3+1,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,,100,2+1,4,5,10,Doğalgaz (Kombi),1,Var,Hayır,890000
+Aydın,Efeler,Kurtuluş,65,2+1,0,3,5,Doğalgaz (Kombi),1,Yok,Hayır,1100000
+Aydın,Efeler,Cumhuriyet,165,4+1,4,5,5,Doğalgaz (Kombi),2,Var,Hayır,2475000
+Aydın,Efeler,Ata,120,3+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Girne,150,3+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,2400000
+Aydın,Efeler,Zafer,48,1+1,0,1,4,Yerden Isıtma,1,Var,Hayır,995000
+Aydın,Efeler,Ata,120,3+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,1400000
+Aydın,Efeler,Yedi Eylül,192,4+1,5-10 arası,4,6,Doğalgaz (Kombi),2,Var,Belirtilmemiş,2640000
+Aydın,Efeler,Orta,45,1+1,4,1,4,Doğalgaz (Kombi),1,Yok,Evet,670000
+Aydın,Efeler,Güzelhisar,70,2+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,1040000
+Aydın,Efeler,İstiklal,200,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,1450000
+Aydın,Efeler,Meşrutiyet,125,3+1,0,5,5,Doğalgaz (Kombi),1,Var,Hayır,1750000
+Aydın,Efeler,Fatih,240,4+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,2750000
+Aydın,Efeler,Ata,105,2+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Orta,35,1+1,0,2,4,Yerden Isıtma,1,Var,Evet,890000
+Aydın,Efeler,Köprülü - Veysipaşa,140,2+1,31 ve üzeri,Zemin Kat,3,Soba,1,Yok,Hayır,650000
+Aydın,Efeler,Köprülü - Veysipaşa,90,2+1,31 ve üzeri,1,4,Soba,1,Var,Hayır,605000
+Aydın,Efeler,Kemer,75,2+1,0,1,3,Yerden Isıtma,1,Var,Hayır,1500000
+Aydın,Efeler,Kemer,120,3+1,21-25 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,880000
+Aydın,Efeler,Güzelhisar,180,4+1,11-15 arası,1,5,Doğalgaz (Kombi),2,Var,Hayır,1575000
+Aydın,Efeler,Adnan Menderes,120,2+1,2,1,6,Doğalgaz (Kombi),2,Var,Hayır,1680000
+Aydın,Efeler,Orta,75,2+1,1,3,5,Doğalgaz (Kombi),1,Var,Hayır,840000
+Aydın,Efeler,Efeler,300,6+1,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,2750000
+Aydın,Efeler,Ata,170,3+1,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,1700000
+Aydın,Efeler,Zafer,125,3+1,11-15 arası,1,6,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Zafer,50,1+1,2,1,6,Merkezi,1,Var,Evet,880000
+Aydın,Efeler,Yedi Eylül,120,3+1,0,6,7,Doğalgaz (Kombi),1,Var,Hayır,3200000
+Aydın,Efeler,Cuma,110,3+1,31 ve üzeri,4,4,Soba,1,Var,Hayır,850000
+Aydın,Efeler,Orta,50,1+1,0,2,4,Doğalgaz (Kombi),1,Var,Evet,685000
+Aydın,Efeler,Meşrutiyet,60,2+1,0,5,5,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Ata,220,5+1,5-10 arası,4,4,Doğalgaz (Kombi),3,Var,Hayır,1650000
+Aydın,Efeler,Mimar Sinan,150,3+1,4,3,3,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Mimar Sinan,100,2+1,0,2,3,Yerden Isıtma,1,Var,Hayır,1300000
+Aydın,Efeler,Meşrutiyet,130,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1275000
+Aydın,Efeler,Adnan Menderes,110,3+1,26-30 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Girne,85,2+1,0,2,3,Doğalgaz (Kombi),2,Var,Evet,1549000
+Aydın,Efeler,Zeybek,135,3+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,85,2+1,4,Yüksek Giriş,4,Doğalgaz (Kombi),1,Yok,Hayır,875000
+Aydın,Efeler,Efeler,100,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,130,3+1,21-25 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Adnan Menderes,130,3+1,11-15 arası,4,5,Merkezi,1,Var,Hayır,1650000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,100,3+1,26-30 arası,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,950000
+Aydın,Efeler,Orta,80,2+1,31 ve üzeri,2,2,Klima,1,Var,Hayır,690000
+Aydın,Efeler,Efeler,120,3+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,1890000
+Aydın,Efeler,Efeler,105,3+1,4,1,5,Doğalgaz (Kombi),1,Var,Hayır,1845000
+Aydın,Efeler,Meşrutiyet,115,3+1,16-20 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,1400000
+Aydın,Efeler,Zafer,187,3+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Fatih,140,3+1,5-10 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1650000
+Aydın,Efeler,Kurtuluş,40,1+1,0,3,5,Doğalgaz (Kombi),1,Var,Evet,950000
+Aydın,Efeler,Meşrutiyet,55,1+1,4,1,6,Merkezi,1,Var,Evet,880000
+Aydın,Efeler,Girne,100,3+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1550000
+Aydın,Efeler,Köprülü - Veysipaşa,145,3+1,21-25 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,2500000
+Aydın,Efeler,Zeybek,125,3+1,11-15 arası,3,4,Doğalgaz (Kombi),2,Var,Hayır,1475000
+Aydın,Efeler,Adnan Menderes,140,2+1,5-10 arası,3,8,Merkezi (Pay Ölçer),2,Var,Hayır,2950000
+Aydın,Efeler,Adnan Menderes,50,1+1,1,3,5,Doğalgaz (Kombi),1,Var,Hayır,950000
+Aydın,Efeler,Efeler,80,2+1,0,3,5,Yerden Isıtma,1,Var,Hayır,1475000
+Aydın,Efeler,Orta,35,1+1,0,2,5,Yerden Isıtma,1,Var,Hayır,900000
+Aydın,Efeler,Zafer,55,1+1,0,2,6,Doğalgaz (Kombi),1,Yok,Hayır,920000
+Aydın,Efeler,Orta,48,1+1,4,1,4,Doğalgaz (Kombi),1,Yok,Evet,670000
+Aydın,Efeler,Ata,100,2+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,1250000
+Aydın,Efeler,Ata,128,3+1,0,2,5,Yerden Isıtma,2,Var,Hayır,2720000
+Aydın,Efeler,Yedi Eylül,130,3+1,11-15 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1700000
+Aydın,Efeler,Fatih,90,2+1,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,1519000
+Aydın,Efeler,Güzelhisar,110,2+1,21-25 arası,6,6,Doğalgaz (Kombi),1,Var,Hayır,590000
+Aydın,Efeler,Cuma,60,2+1,1,3,4,Doğalgaz (Kombi),1,Var,Hayır,820000
+Aydın,Efeler,Zafer,175,3+1,11-15 arası,2,7,Doğalgaz (Kombi),1,Var,Hayır,1100000
+Aydın,Efeler,Meşrutiyet,140,3+1,21-25 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,980000
+Aydın,Efeler,Fatih,250,4+2,5-10 arası,3,3,Doğalgaz (Kombi),3,Var,Hayır,2300000
+Aydın,Efeler,Yedi Eylül,205,4+1,11-15 arası,6,6,Doğalgaz (Kombi),2,Var,Hayır,3800000
+Aydın,Efeler,Orta,65,2+1,0,4,4,Yerden Isıtma,2,Var,Evet,1250000
+Aydın,Efeler,Orta,60,2+1,4,2,4,Klima,1,Yok,Evet,885000
+Aydın,Efeler,Orta,100,2+1,5-10 arası,1,4,Yerden Isıtma,1,Var,Hayır,980000
+Aydın,Efeler,Orta,50,1+1,1,1,4,Doğalgaz (Kombi),1,Var,Evet,865000
+Aydın,Efeler,Kurtuluş,130,3+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,1850000
+Aydın,Efeler,Ata,120,3+1,3,3,6,Yerden Isıtma,2,Var,Hayır,1950000
+Aydın,Efeler,Meşrutiyet,100,2+1,26-30 arası,1,3,Doğalgaz (Kombi),1,Var,Hayır,1240000
+Aydın,Efeler,Yedi Eylül,100,3+1,0,1,7,Doğalgaz (Kombi),1,Var,Hayır,1550000
+Aydın,Efeler,Ata,85,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,İstiklal,135,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,1650000
+Aydın,Efeler,Cumhuriyet,130,3+1,21-25 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,950000
+Aydın,Efeler,Meşrutiyet,50,1+1,0,2,4,Yerden Isıtma,1,Var,Hayır,575000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,150,4+1,21-25 arası,3,4,Klima,1,Var,Hayır,1150000
+Aydın,Efeler,Efeler,160,3+1,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,3000000
+Aydın,Efeler,Zafer,55,1+1,5-10 arası,2,4,Merkezi,1,Var,Hayır,775000
+Aydın,Efeler,Yedi Eylül,180,4+1,26-30 arası,7,7,Merkezi,1,Var,Hayır,2100000
+Aydın,Efeler,Zafer,100,2+1,31 ve üzeri,Yüksek Giriş,2,Soba,1,Var,Evet,800000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,132,3+1,21-25 arası,3,4,Yok,1,Var,Hayır,970000
+Aydın,Efeler,Kurtuluş,125,3+1,26-30 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Cumhuriyet,120,3+1,26-30 arası,1,6,Yok,1,Var,Hayır,920000
+Aydın,Efeler,Yedi Eylül,200,4+1,11-15 arası,2,6,Merkezi,2,Var,Hayır,3490000
+Aydın,Efeler,Girne,115,3+1,11-15 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Ata,130,3+1,3,2,3,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Efeler,220,5+1,4,4,4,Merkezi,3,Var,Hayır,2650000
+Aydın,Efeler,Kurtuluş,130,3+1,21-25 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1240000
+Aydın,Efeler,Ata,60,2+1,0,Giriş Katı,3,Doğalgaz (Kombi),1,Var,Hayır,800000
+Aydın,Efeler,Adnan Menderes,90,2+1,26-30 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Efeler,95,2+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Meşrutiyet,120,3+1,21-25 arası,2,5,Klima,1,Var,Hayır,857000
+Aydın,Efeler,Kurtuluş,40,1+1,4,2,5,Doğalgaz (Kombi),1,Yok,Evet,875000
+Aydın,Efeler,Cumhuriyet,120,3+1,21-25 arası,2,6,Doğalgaz (Kombi),2,Var,Hayır,1100000
+Aydın,Efeler,Efeler,155,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,2420000
+Aydın,Efeler,Ata,220,4+1,0,2,2,Doğalgaz (Kombi),3,Var,Hayır,2295000
+Aydın,Efeler,İstiklal,110,3+1,0,2,3,Doğalgaz (Kombi),1,Var,Hayır,1700000
+Aydın,Efeler,Zeybek,60,1+1,1,2,5,Yerden Isıtma,1,Var,Hayır,900000
+Aydın,Efeler,Ata,125,3+1,5-10 arası,1,3,Doğalgaz (Kombi),1,Var,Hayır,1100000
+Aydın,Efeler,Adnan Menderes,128,3+1,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Orta,47,1+1,5-10 arası,3,4,Merkezi,1,Var,Evet,739000
+Aydın,Efeler,Efeler,140,3+1,5-10 arası,3,4,Doğalgaz (Kombi),2,Var,Hayır,3100000
+Aydın,Efeler,Orta,100,3+1,4,4,4,Klima,1,Var,Evet,920000
+Aydın,Efeler,Mesudiye,100,2+1,11-15 arası,Giriş Altı Kot 1,4,Soba,1,Yok,Hayır,550000
+Aydın,Efeler,Adnan Menderes,150,3+1,4,5,6,Merkezi (Pay Ölçer),2,Var,Hayır,3250000
+Aydın,Efeler,Girne,260,6+1,5-10 arası,3,3,Doğalgaz (Kombi),3,Var,Hayır,3475000
+Aydın,Efeler,Ata,170,4+1,4,3,3,Doğalgaz (Kombi),2,Var,Hayır,1500000
+Aydın,Efeler,Mimar Sinan,196,4+1,11-15 arası,3,7,Merkezi (Pay Ölçer),2,Var,Hayır,3500000
+Aydın,Efeler,Kemer,180,4+1,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Evet,760000
+Aydın,Efeler,Meşrutiyet,190,4+1,11-15 arası,3,4,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Orta,52,1+1,5-10 arası,4,5,Merkezi,1,Var,Evet,680000
+Aydın,Efeler,Cumhuriyet,120,2+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,1350000
+Aydın,Efeler,Cuma,55,1+1,2,4,6,Doğalgaz (Kombi),1,Var,Evet,875000
+Aydın,Efeler,Girne,100,2+1,4,1,3,Doğalgaz (Kombi),2,Var,Hayır,1275000
+Aydın,Efeler,Ata,110,2+1,2,3,3,Doğalgaz (Kombi),1,Var,Hayır,989000
+Aydın,Efeler,Zafer,50,1+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,900000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,100,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,1495000
+Aydın,Efeler,Efeler,150,3.5+1,0,1,7,Yerden Isıtma,2,Var,Hayır,2450000
+Aydın,Efeler,Yedi Eylül,140,3+1,11-15 arası,3,6,Merkezi,1,Var,Hayır,2280000
+Aydın,Efeler,Ata,51,2+1,2,2,2,Yerden Isıtma,1,Var,Hayır,1000000
+Aydın,Efeler,Zafer,115,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Evet,870000
+Aydın,Efeler,Orta,41,1+1,5-10 arası,4,4,Klima,1,Yok,Evet,645000
+Aydın,Efeler,Adnan Menderes,130,3+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Cumhuriyet,130,3+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,1500000
+Aydın,Efeler,Zafer,140,3+1,1,2,8,Merkezi,2,Var,Hayır,2100000
+Aydın,Efeler,Orta,75,2+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,759000
+Aydın,Efeler,Girne,130,3+1,0,3,3,Doğalgaz (Kombi),1,Var,Hayır,1310000
+Aydın,Efeler,Ata,95,2+1,5-10 arası,2,3,Doğalgaz (Kombi),1,Var,Hayır,1350000
+Aydın,Efeler,Kurtuluş,110,2.5+1,31 ve üzeri,1,5,Doğalgaz (Kombi),1,Var,Hayır,1350000
+Aydın,Efeler,Ata,80,2+1,3,1,4,Yerden Isıtma,1,Var,Hayır,1350000
+Aydın,Efeler,Zafer,45,1+1,0,3,4,Doğalgaz (Kombi),1,Yok,Hayır,745000
+Aydın,Efeler,Zafer,48,1+1,5-10 arası,1,5,Merkezi,1,Var,Evet,775000
+Aydın,Efeler,Efeler,130,3+1,26-30 arası,2,3,Klima,1,Var,Hayır,850000
+Aydın,Efeler,Fatih,85,2+1,4,2,4,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1475000
+Aydın,Efeler,Mimar Sinan,135,3+1,16-20 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,1350000
+Aydın,Efeler,Güzelhisar,150,3+1,31 ve üzeri,3,7,Doğalgaz (Kombi),1,Var,Hayır,1100000
+Aydın,Efeler,Cumhuriyet,200,4+1,5-10 arası,6,6,Merkezi,2,Var,Hayır,2300000
+Aydın,Efeler,Efeler,120,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,5,5,Doğalgaz (Kombi),2,Var,Hayır,1850000
+Aydın,Efeler,Güzelhisar,85,2+1,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,1350000
+Aydın,Efeler,Kurtuluş,100,2+1,26-30 arası,4,4,Klima,1,Var,Hayır,635000
+Aydın,Efeler,Efeler,120,3+1,0,2,4,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1750000
+Aydın,Efeler,Adnan Menderes,120,3+1,5-10 arası,6,8,Merkezi,2,Var,Belirtilmemiş,3200000
+Aydın,Efeler,Kemer,90,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,1400000
+Aydın,Efeler,Zafer,45,1+1,5-10 arası,5,5,Doğalgaz (Kombi),1,Var,Evet,850000
+Aydın,Efeler,Ata,70,2+1,3,3,3,Yerden Isıtma,1,Yok,Hayır,900000
+Aydın,Efeler,Kurtuluş,110,2+2,21-25 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,850000
+Aydın,Efeler,Adnan Menderes,150,3+1,4,2,6,Merkezi (Pay Ölçer),2,Var,Hayır,2900000
+Aydın,Efeler,Adnan Menderes,50,1+1,4,1,4,Klima,1,Yok,Evet,815000
+Aydın,Efeler,Ata,135,3+1,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,1450000
+Aydın,Efeler,Güzelhisar,90,2+1,26-30 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,135,3+1,21-25 arası,5,6,Doğalgaz (Kombi),1,Var,Hayır,1550000
+Aydın,Efeler,Köprülü - Veysipaşa,75,2+1,4,Yüksek Giriş,2,Doğalgaz (Kombi),1,Yok,Evet,765000
+Aydın,Efeler,Cumhuriyet,75,2+1,16-20 arası,2,5,Klima,1,Yok,Hayır,1500000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Güzelhisar,40,1+1,5-10 arası,4,5,Doğalgaz (Kombi),1,Yok,Evet,830000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,Efeler,157,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,2100000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,Efeler,157,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,2100000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,Efeler,157,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,2100000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,Efeler,157,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,2100000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,Efeler,157,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,2100000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,Efeler,157,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,2100000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Güzelhisar,40,1+1,5-10 arası,4,5,Doğalgaz (Kombi),1,Yok,Evet,830000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,Efeler,157,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,2100000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Ata,110,2+1,0,4,11,Yerden Isıtma,2,Var,Hayır,1750000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000
+Aydın,Efeler,Adnan Menderes,220,5+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,1750000
+Aydın,Efeler,Girne,140,3+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,1600000
+Aydın,Efeler,Orta,50,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,620000
+Aydın,Efeler,Orta,75,2+1,4,2,4,Merkezi (Pay Ölçer),1,Var,Evet,945000
+Aydın,Efeler,Orta,60,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1000000
+Aydın,Efeler,Yedi Eylül,75,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1245000
+Aydın,Efeler,Ata,133,3+1,0,3,7,Doğalgaz (Kombi),2,Var,Hayır,1800000
+Aydın,Efeler,Ata,115,3+1,0,3,4,Merkezi (Pay Ölçer),2,Var,Hayır,2945000
+Aydın,Efeler,Cumhuriyet,150,3+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Ata,120,3+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,1190000
+Aydın,Efeler,Orta,80,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,1050000
+Aydın,Efeler,Efeler,120,3+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,1200000
+Aydın,Efeler,Meşrutiyet,160,4+1,16-20 arası,3,6,Doğalgaz (Kombi),1,Var,Hayır,1300000
+Aydın,Efeler,Mimar Sinan,178,4+1,5-10 arası,1,4,Doğalgaz (Kombi),2,Var,Hayır,4500000
+Aydın,Efeler,Ata,90,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,1450000
+Aydın,Efeler,Mesudiye,85,2+1,31 ve üzeri,3,4,Soba,1,Var,Hayır,695000
+Aydın,Efeler,Ata,105,3+1,16-20 arası,Zemin Kat,4,Doğalgaz (Kombi),1,Var,Hayır,770000
+Aydın,Efeler,Efeler,100,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,2250000
+Aydın,Efeler,Güzelhisar,125,3+1,0,6,7,Doğalgaz (Kombi),2,Var,Hayır,3750000
+Aydın,Efeler,Efeler,157,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,2100000
+Aydın,Efeler,,125,3+1,26-30 arası,Yüksek Giriş,2,Klima,1,Var,Hayır,875000
+Aydın,Efeler,Kurtuluş,90,2+1,16-20 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,845000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Girne,190,3+1,3,3,3,Doğalgaz (Kombi),2,Var,Hayır,2500000
+Aydın,Efeler,Orta,90,2+1,4,5,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,1150000
+Aydın,Efeler,Fatih,250,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,2200000
+Aydın,Efeler,Ata,155,3+1,3,6,6,Doğalgaz (Kombi),2,Var,Hayır,2570000
+Aydın,Efeler,Kurtuluş,117,3+1,31 ve üzeri,5,7,Doğalgaz (Kombi),1,Var,Hayır,1600000
+Aydın,Efeler,Hasanefendi - Ramazan Paşa,125,3+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,1745000
+Aydın,Efeler,Cumhuriyet,85,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,930000
+Aydın,Efeler,Orta,45,1+1,5-10 arası,4,4,Doğalgaz (Kombi),1,Var,Hayır,650000
+Aydın,Efeler,Ata,85,2+1,1,2,4,Doğalgaz (Kombi),1,Var,Hayır,1250000
+Aydın,Efeler,Orta,300,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,1950000
+Aydın,Efeler,Kurtuluş,230,6+1,0,5,5,Merkezi,2,Var,Hayır,2575000
+Aydın,Efeler,Yedi Eylül,230,6+1,0,7,7,Doğalgaz (Kombi),2,Var,Hayır,2575000
+Aydın,Efeler,Fatih,120,3+1,16-20 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,945000
+Aydın,Efeler,Cuma,120,2+1,26-30 arası,3,5,Klima,2,Var,Hayır,995000
+Aydın,Efeler,Orta,65,2+0,5-10 arası,5,6,Merkezi,1,Var,Hayır,895000
+Aydın,Efeler,Güzelhisar,125,3+1,5-10 arası,6,8,Merkezi (Pay Ölçer),1,Var,Hayır,1450000

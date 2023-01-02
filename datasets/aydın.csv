@@ -1,0 +1,14 @@
+City,District,Quarter,Net m²,Number of Rooms,Building Age,Floor Location,Number of Floors,Heating,Number of Baths,Balcony,Furnished,Price
+Aydın,Didim,Altınkum,120,3+1,11-15 arası,Bahçe Katı,2,Klima,2,Var,Hayır,1975000
+Aydın,Didim,Çamlık,100,3+1,5-10 arası,2,3,Klima,2,Var,Hayır,2250000
+Aydın,Kuşadası,Ege,130,3+1,5-10 arası,1,5,Klima,2,Var,Hayır,3800000
+Aydın,Didim,Akbük,45,1+1,0,1,3,Klima,1,Var,Evet,1600000
+Aydın,Didim,Çamlık,80,2+1,11-15 arası,1,3,Klima,1,Var,Evet,2090000
+Aydın,Didim,Altınkum,70,2+1,0,1,3,Klima,1,Var,Hayır,2999000
+Aydın,Didim,Çamlık,85,2+1,3,1,3,Klima,1,Var,Evet,2550000
+Aydın,Söke,Kemalpaşa,150,3+1,11-15 arası,2,2,Klima,2,Var,Hayır,3500000
+Aydın,Kuşadası,Ege,85,2+1,16-20 arası,3,5,Klima,1,Var,Hayır,1145000
+Aydın,Kuşadası,Ege,85,2+1,16-20 arası,3,5,Klima,1,Var,Hayır,1145000
+Aydın,Kuşadası,Kadınlar Denizi,130,3+1,11-15 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,2200000
+Aydın,Söke,Kemalpaşa,100,2+1,5-10 arası,1,2,Klima,2,Var,Evet,1580000
+Aydın,Söke,Kemalpaşa,100,2+1,5-10 arası,1,2,Klima,2,Var,Evet,1580000
